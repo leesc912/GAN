@@ -1,0 +1,1806 @@
+Epoch = [    0] - End Time [ 2019 / 12 / 13   10:21:57 ]
+Elapsed Time = 0:00:23.691580
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [3.486509] - D Loss : [1.393625] - D AUX Loss : [0.465961] - Sum : [5.346095]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [    1] - End Time [ 2019 / 12 / 13   10:22:18 ]
+Elapsed Time = 0:00:18.955267
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.248584] - D Loss : [1.044061] - D AUX Loss : [0.190372] - Sum : [2.483016]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [    2] - End Time [ 2019 / 12 / 13   10:22:39 ]
+Elapsed Time = 0:00:18.857703
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.623432] - D Loss : [0.737667] - D AUX Loss : [0.146136] - Sum : [2.507236]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [    3] - End Time [ 2019 / 12 / 13   10:23:00 ]
+Elapsed Time = 0:00:18.970720
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.422686] - D Loss : [0.875061] - D AUX Loss : [0.120538] - Sum : [2.418285]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [    4] - End Time [ 2019 / 12 / 13   10:23:21 ]
+Elapsed Time = 0:00:18.877658
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.290163] - D Loss : [0.988458] - D AUX Loss : [0.104879] - Sum : [2.383500]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [    5] - End Time [ 2019 / 12 / 13   10:23:42 ]
+Elapsed Time = 0:00:18.921209
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.166162] - D Loss : [1.067907] - D AUX Loss : [0.094112] - Sum : [2.328181]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [    6] - End Time [ 2019 / 12 / 13   10:24:03 ]
+Elapsed Time = 0:00:18.660125
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.101712] - D Loss : [1.111656] - D AUX Loss : [0.087548] - Sum : [2.300916]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [    7] - End Time [ 2019 / 12 / 13   10:24:24 ]
+Elapsed Time = 0:00:18.637650
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.037171] - D Loss : [1.157328] - D AUX Loss : [0.078974] - Sum : [2.273473]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [    8] - End Time [ 2019 / 12 / 13   10:24:44 ]
+Elapsed Time = 0:00:18.620180
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.010143] - D Loss : [1.173208] - D AUX Loss : [0.073405] - Sum : [2.256755]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [    9] - End Time [ 2019 / 12 / 13   10:25:05 ]
+Elapsed Time = 0:00:18.641257
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [0.985910] - D Loss : [1.190102] - D AUX Loss : [0.070681] - Sum : [2.246694]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   10] - End Time [ 2019 / 12 / 13   10:25:26 ]
+Elapsed Time = 0:00:18.645322
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [0.972341] - D Loss : [1.192204] - D AUX Loss : [0.067636] - Sum : [2.232181]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   11] - End Time [ 2019 / 12 / 13   10:25:47 ]
+Elapsed Time = 0:00:18.714283
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [0.976767] - D Loss : [1.196298] - D AUX Loss : [0.063187] - Sum : [2.236253]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   12] - End Time [ 2019 / 12 / 13   10:26:07 ]
+Elapsed Time = 0:00:18.627167
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [0.971259] - D Loss : [1.194615] - D AUX Loss : [0.062454] - Sum : [2.228328]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   13] - End Time [ 2019 / 12 / 13   10:26:28 ]
+Elapsed Time = 0:00:18.726394
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [0.964452] - D Loss : [1.199434] - D AUX Loss : [0.060443] - Sum : [2.224329]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   14] - End Time [ 2019 / 12 / 13   10:26:49 ]
+Elapsed Time = 0:00:18.598062
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [0.963864] - D Loss : [1.196003] - D AUX Loss : [0.057870] - Sum : [2.217737]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   15] - End Time [ 2019 / 12 / 13   10:27:10 ]
+Elapsed Time = 0:00:18.571282
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [0.976781] - D Loss : [1.184808] - D AUX Loss : [0.054703] - Sum : [2.216291]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   16] - End Time [ 2019 / 12 / 13   10:27:30 ]
+Elapsed Time = 0:00:18.608694
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [0.985191] - D Loss : [1.181615] - D AUX Loss : [0.054844] - Sum : [2.221650]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   17] - End Time [ 2019 / 12 / 13   10:27:51 ]
+Elapsed Time = 0:00:18.559798
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [0.989055] - D Loss : [1.175982] - D AUX Loss : [0.055232] - Sum : [2.220269]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   18] - End Time [ 2019 / 12 / 13   10:28:12 ]
+Elapsed Time = 0:00:18.605021
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.005558] - D Loss : [1.166519] - D AUX Loss : [0.053543] - Sum : [2.225620]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   19] - End Time [ 2019 / 12 / 13   10:28:32 ]
+Elapsed Time = 0:00:18.506413
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.000520] - D Loss : [1.159576] - D AUX Loss : [0.053928] - Sum : [2.214025]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   20] - End Time [ 2019 / 12 / 13   10:28:53 ]
+Elapsed Time = 0:00:18.543622
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.004899] - D Loss : [1.153972] - D AUX Loss : [0.051573] - Sum : [2.210444]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   21] - End Time [ 2019 / 12 / 13   10:29:13 ]
+Elapsed Time = 0:00:18.530981
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.028453] - D Loss : [1.139183] - D AUX Loss : [0.051114] - Sum : [2.218750]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   22] - End Time [ 2019 / 12 / 13   10:29:34 ]
+Elapsed Time = 0:00:18.576644
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.046017] - D Loss : [1.130494] - D AUX Loss : [0.051537] - Sum : [2.228048]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   23] - End Time [ 2019 / 12 / 13   10:29:55 ]
+Elapsed Time = 0:00:18.874751
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.063591] - D Loss : [1.121614] - D AUX Loss : [0.050087] - Sum : [2.235292]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   24] - End Time [ 2019 / 12 / 13   10:30:15 ]
+Elapsed Time = 0:00:18.596639
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.063500] - D Loss : [1.116321] - D AUX Loss : [0.049577] - Sum : [2.229397]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   25] - End Time [ 2019 / 12 / 13   10:30:36 ]
+Elapsed Time = 0:00:18.599567
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.086712] - D Loss : [1.105390] - D AUX Loss : [0.048069] - Sum : [2.240170]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   26] - End Time [ 2019 / 12 / 13   10:30:57 ]
+Elapsed Time = 0:00:18.665879
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.089498] - D Loss : [1.087830] - D AUX Loss : [0.048733] - Sum : [2.226061]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   27] - End Time [ 2019 / 12 / 13   10:31:18 ]
+Elapsed Time = 0:00:18.643808
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.112918] - D Loss : [1.078416] - D AUX Loss : [0.049155] - Sum : [2.240489]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   28] - End Time [ 2019 / 12 / 13   10:31:38 ]
+Elapsed Time = 0:00:18.750961
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.121208] - D Loss : [1.061124] - D AUX Loss : [0.047357] - Sum : [2.229689]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   29] - End Time [ 2019 / 12 / 13   10:31:59 ]
+Elapsed Time = 0:00:18.657796
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.132011] - D Loss : [1.069219] - D AUX Loss : [0.046831] - Sum : [2.248061]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   30] - End Time [ 2019 / 12 / 13   10:32:20 ]
+Elapsed Time = 0:00:18.608116
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.155524] - D Loss : [1.066694] - D AUX Loss : [0.046659] - Sum : [2.268877]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   31] - End Time [ 2019 / 12 / 13   10:32:40 ]
+Elapsed Time = 0:00:18.643996
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.185691] - D Loss : [1.034126] - D AUX Loss : [0.046896] - Sum : [2.266713]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   32] - End Time [ 2019 / 12 / 13   10:33:01 ]
+Elapsed Time = 0:00:18.641286
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.184208] - D Loss : [1.030973] - D AUX Loss : [0.047332] - Sum : [2.262512]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   33] - End Time [ 2019 / 12 / 13   10:33:22 ]
+Elapsed Time = 0:00:18.726098
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.196230] - D Loss : [1.034566] - D AUX Loss : [0.046244] - Sum : [2.277040]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   34] - End Time [ 2019 / 12 / 13   10:33:42 ]
+Elapsed Time = 0:00:18.606165
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.202942] - D Loss : [1.008337] - D AUX Loss : [0.045860] - Sum : [2.257139]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   35] - End Time [ 2019 / 12 / 13   10:34:03 ]
+Elapsed Time = 0:00:18.610075
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.229252] - D Loss : [1.012593] - D AUX Loss : [0.046367] - Sum : [2.288212]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   36] - End Time [ 2019 / 12 / 13   10:34:24 ]
+Elapsed Time = 0:00:18.664122
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.239022] - D Loss : [1.004893] - D AUX Loss : [0.046025] - Sum : [2.289939]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   37] - End Time [ 2019 / 12 / 13   10:34:45 ]
+Elapsed Time = 0:00:18.681689
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.274288] - D Loss : [0.998986] - D AUX Loss : [0.044884] - Sum : [2.318158]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   38] - End Time [ 2019 / 12 / 13   10:35:06 ]
+Elapsed Time = 0:00:18.654475
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.256369] - D Loss : [0.988803] - D AUX Loss : [0.046002] - Sum : [2.291174]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   39] - End Time [ 2019 / 12 / 13   10:35:26 ]
+Elapsed Time = 0:00:18.608638
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.267032] - D Loss : [0.996314] - D AUX Loss : [0.045692] - Sum : [2.309038]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   40] - End Time [ 2019 / 12 / 13   10:35:47 ]
+Elapsed Time = 0:00:18.659896
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.302736] - D Loss : [0.974359] - D AUX Loss : [0.044133] - Sum : [2.321228]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   41] - End Time [ 2019 / 12 / 13   10:36:08 ]
+Elapsed Time = 0:00:18.643157
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.333803] - D Loss : [0.940429] - D AUX Loss : [0.044132] - Sum : [2.318364]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   42] - End Time [ 2019 / 12 / 13   10:36:28 ]
+Elapsed Time = 0:00:18.738390
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.334810] - D Loss : [0.954029] - D AUX Loss : [0.044254] - Sum : [2.333093]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   43] - End Time [ 2019 / 12 / 13   10:36:49 ]
+Elapsed Time = 0:00:18.816093
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.362752] - D Loss : [0.939332] - D AUX Loss : [0.044711] - Sum : [2.346795]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   44] - End Time [ 2019 / 12 / 13   10:37:10 ]
+Elapsed Time = 0:00:18.692394
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.364998] - D Loss : [0.956526] - D AUX Loss : [0.044595] - Sum : [2.366119]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   45] - End Time [ 2019 / 12 / 13   10:37:31 ]
+Elapsed Time = 0:00:18.651591
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.369904] - D Loss : [0.948763] - D AUX Loss : [0.046296] - Sum : [2.364964]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   46] - End Time [ 2019 / 12 / 13   10:37:51 ]
+Elapsed Time = 0:00:18.653692
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.404275] - D Loss : [0.913834] - D AUX Loss : [0.042714] - Sum : [2.360823]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   47] - End Time [ 2019 / 12 / 13   10:38:12 ]
+Elapsed Time = 0:00:18.569305
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.407493] - D Loss : [0.936305] - D AUX Loss : [0.045217] - Sum : [2.389015]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   48] - End Time [ 2019 / 12 / 13   10:38:33 ]
+Elapsed Time = 0:00:18.612958
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.420120] - D Loss : [0.912034] - D AUX Loss : [0.044241] - Sum : [2.376396]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   49] - End Time [ 2019 / 12 / 13   10:38:53 ]
+Elapsed Time = 0:00:18.634742
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.436282] - D Loss : [0.911160] - D AUX Loss : [0.043588] - Sum : [2.391031]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   50] - End Time [ 2019 / 12 / 13   10:39:14 ]
+Elapsed Time = 0:00:18.682660
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.438653] - D Loss : [0.879664] - D AUX Loss : [0.044809] - Sum : [2.363126]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   51] - End Time [ 2019 / 12 / 13   10:39:35 ]
+Elapsed Time = 0:00:18.698636
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.493166] - D Loss : [0.892125] - D AUX Loss : [0.041877] - Sum : [2.427169]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   52] - End Time [ 2019 / 12 / 13   10:39:56 ]
+Elapsed Time = 0:00:18.665453
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.475439] - D Loss : [0.879233] - D AUX Loss : [0.043992] - Sum : [2.398664]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   53] - End Time [ 2019 / 12 / 13   10:40:16 ]
+Elapsed Time = 0:00:18.652475
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.512185] - D Loss : [0.875263] - D AUX Loss : [0.042545] - Sum : [2.429992]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   54] - End Time [ 2019 / 12 / 13   10:40:37 ]
+Elapsed Time = 0:00:18.690641
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.529577] - D Loss : [0.875433] - D AUX Loss : [0.043162] - Sum : [2.448172]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   55] - End Time [ 2019 / 12 / 13   10:40:58 ]
+Elapsed Time = 0:00:18.761433
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.511952] - D Loss : [0.864798] - D AUX Loss : [0.041384] - Sum : [2.418134]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   56] - End Time [ 2019 / 12 / 13   10:41:19 ]
+Elapsed Time = 0:00:18.637688
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.546725] - D Loss : [0.876761] - D AUX Loss : [0.042989] - Sum : [2.466475]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   57] - End Time [ 2019 / 12 / 13   10:41:39 ]
+Elapsed Time = 0:00:18.623885
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.528437] - D Loss : [0.872583] - D AUX Loss : [0.043510] - Sum : [2.444530]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   58] - End Time [ 2019 / 12 / 13   10:42:00 ]
+Elapsed Time = 0:00:18.786644
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.560183] - D Loss : [0.853531] - D AUX Loss : [0.042930] - Sum : [2.456643]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   59] - End Time [ 2019 / 12 / 13   10:42:21 ]
+Elapsed Time = 0:00:18.647005
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.571669] - D Loss : [0.839507] - D AUX Loss : [0.042905] - Sum : [2.454081]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   60] - End Time [ 2019 / 12 / 13   10:42:42 ]
+Elapsed Time = 0:00:18.614688
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.590167] - D Loss : [0.842209] - D AUX Loss : [0.041586] - Sum : [2.473962]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   61] - End Time [ 2019 / 12 / 13   10:43:02 ]
+Elapsed Time = 0:00:18.652502
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.652940] - D Loss : [0.831757] - D AUX Loss : [0.041450] - Sum : [2.526146]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   62] - End Time [ 2019 / 12 / 13   10:43:23 ]
+Elapsed Time = 0:00:18.676596
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.617595] - D Loss : [0.845586] - D AUX Loss : [0.042112] - Sum : [2.505293]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   63] - End Time [ 2019 / 12 / 13   10:43:44 ]
+Elapsed Time = 0:00:18.638646
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.615496] - D Loss : [0.826064] - D AUX Loss : [0.041447] - Sum : [2.483006]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   64] - End Time [ 2019 / 12 / 13   10:44:05 ]
+Elapsed Time = 0:00:18.666135
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.660277] - D Loss : [0.829187] - D AUX Loss : [0.040963] - Sum : [2.530427]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   65] - End Time [ 2019 / 12 / 13   10:44:25 ]
+Elapsed Time = 0:00:18.648897
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.654289] - D Loss : [0.825825] - D AUX Loss : [0.044160] - Sum : [2.524273]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   66] - End Time [ 2019 / 12 / 13   10:44:46 ]
+Elapsed Time = 0:00:18.585205
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.677388] - D Loss : [0.833600] - D AUX Loss : [0.043198] - Sum : [2.554187]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   67] - End Time [ 2019 / 12 / 13   10:45:07 ]
+Elapsed Time = 0:00:18.669676
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.628893] - D Loss : [0.832748] - D AUX Loss : [0.041159] - Sum : [2.502800]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   68] - End Time [ 2019 / 12 / 13   10:45:27 ]
+Elapsed Time = 0:00:18.645489
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.652049] - D Loss : [0.836735] - D AUX Loss : [0.041118] - Sum : [2.529903]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   69] - End Time [ 2019 / 12 / 13   10:45:48 ]
+Elapsed Time = 0:00:18.679007
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.645168] - D Loss : [0.798810] - D AUX Loss : [0.041401] - Sum : [2.485379]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   70] - End Time [ 2019 / 12 / 13   10:46:09 ]
+Elapsed Time = 0:00:18.692914
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.718404] - D Loss : [0.823009] - D AUX Loss : [0.041109] - Sum : [2.582522]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   71] - End Time [ 2019 / 12 / 13   10:46:30 ]
+Elapsed Time = 0:00:18.680187
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.691948] - D Loss : [0.812629] - D AUX Loss : [0.042849] - Sum : [2.547425]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   72] - End Time [ 2019 / 12 / 13   10:46:50 ]
+Elapsed Time = 0:00:18.581601
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.726877] - D Loss : [0.804395] - D AUX Loss : [0.042146] - Sum : [2.573417]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   73] - End Time [ 2019 / 12 / 13   10:47:11 ]
+Elapsed Time = 0:00:18.689679
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.698211] - D Loss : [0.795076] - D AUX Loss : [0.041166] - Sum : [2.534453]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   74] - End Time [ 2019 / 12 / 13   10:47:32 ]
+Elapsed Time = 0:00:18.677939
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.698284] - D Loss : [0.808568] - D AUX Loss : [0.039316] - Sum : [2.546169]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   75] - End Time [ 2019 / 12 / 13   10:47:53 ]
+Elapsed Time = 0:00:18.728503
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.685727] - D Loss : [0.803632] - D AUX Loss : [0.039083] - Sum : [2.528441]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   76] - End Time [ 2019 / 12 / 13   10:48:13 ]
+Elapsed Time = 0:00:18.632351
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.736863] - D Loss : [0.774906] - D AUX Loss : [0.039722] - Sum : [2.551491]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   77] - End Time [ 2019 / 12 / 13   10:48:34 ]
+Elapsed Time = 0:00:18.669980
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.740971] - D Loss : [0.789675] - D AUX Loss : [0.040930] - Sum : [2.571575]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   78] - End Time [ 2019 / 12 / 13   10:48:55 ]
+Elapsed Time = 0:00:18.622258
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.717854] - D Loss : [0.784582] - D AUX Loss : [0.040267] - Sum : [2.542703]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   79] - End Time [ 2019 / 12 / 13   10:49:16 ]
+Elapsed Time = 0:00:18.636031
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.768138] - D Loss : [0.794257] - D AUX Loss : [0.041430] - Sum : [2.603825]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   80] - End Time [ 2019 / 12 / 13   10:49:36 ]
+Elapsed Time = 0:00:18.749421
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.786846] - D Loss : [0.786132] - D AUX Loss : [0.041114] - Sum : [2.614091]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   81] - End Time [ 2019 / 12 / 13   10:49:57 ]
+Elapsed Time = 0:00:18.603068
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.765338] - D Loss : [0.769943] - D AUX Loss : [0.041958] - Sum : [2.577239]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   82] - End Time [ 2019 / 12 / 13   10:50:18 ]
+Elapsed Time = 0:00:18.623332
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.796078] - D Loss : [0.786811] - D AUX Loss : [0.040644] - Sum : [2.623533]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   83] - End Time [ 2019 / 12 / 13   10:50:39 ]
+Elapsed Time = 0:00:18.707072
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.800597] - D Loss : [0.785225] - D AUX Loss : [0.040305] - Sum : [2.626126]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   84] - End Time [ 2019 / 12 / 13   10:50:59 ]
+Elapsed Time = 0:00:18.656321
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.882737] - D Loss : [0.765288] - D AUX Loss : [0.039989] - Sum : [2.688015]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   85] - End Time [ 2019 / 12 / 13   10:51:20 ]
+Elapsed Time = 0:00:18.703601
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.819683] - D Loss : [0.768696] - D AUX Loss : [0.040717] - Sum : [2.629096]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   86] - End Time [ 2019 / 12 / 13   10:51:41 ]
+Elapsed Time = 0:00:18.704722
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.856422] - D Loss : [0.759422] - D AUX Loss : [0.039542] - Sum : [2.655387]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   87] - End Time [ 2019 / 12 / 13   10:52:01 ]
+Elapsed Time = 0:00:18.647335
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.829924] - D Loss : [0.767081] - D AUX Loss : [0.041589] - Sum : [2.638594]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   88] - End Time [ 2019 / 12 / 13   10:52:22 ]
+Elapsed Time = 0:00:18.746605
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.824540] - D Loss : [0.776260] - D AUX Loss : [0.040396] - Sum : [2.641196]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   89] - End Time [ 2019 / 12 / 13   10:52:43 ]
+Elapsed Time = 0:00:18.684832
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.809502] - D Loss : [0.731422] - D AUX Loss : [0.040023] - Sum : [2.580948]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   90] - End Time [ 2019 / 12 / 13   10:53:04 ]
+Elapsed Time = 0:00:18.694495
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.848074] - D Loss : [0.757721] - D AUX Loss : [0.039729] - Sum : [2.645524]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   91] - End Time [ 2019 / 12 / 13   10:53:24 ]
+Elapsed Time = 0:00:18.674679
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.895808] - D Loss : [0.759979] - D AUX Loss : [0.039228] - Sum : [2.695015]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   92] - End Time [ 2019 / 12 / 13   10:53:45 ]
+Elapsed Time = 0:00:18.700329
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.873885] - D Loss : [0.770132] - D AUX Loss : [0.037147] - Sum : [2.681163]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   93] - End Time [ 2019 / 12 / 13   10:54:06 ]
+Elapsed Time = 0:00:18.663125
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.866451] - D Loss : [0.744978] - D AUX Loss : [0.039378] - Sum : [2.650807]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   94] - End Time [ 2019 / 12 / 13   10:54:27 ]
+Elapsed Time = 0:00:18.636057
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.884586] - D Loss : [0.757876] - D AUX Loss : [0.038911] - Sum : [2.681372]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   95] - End Time [ 2019 / 12 / 13   10:54:47 ]
+Elapsed Time = 0:00:18.598435
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.908288] - D Loss : [0.762569] - D AUX Loss : [0.041024] - Sum : [2.711880]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   96] - End Time [ 2019 / 12 / 13   10:55:08 ]
+Elapsed Time = 0:00:18.595360
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.877480] - D Loss : [0.738393] - D AUX Loss : [0.038904] - Sum : [2.654776]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   97] - End Time [ 2019 / 12 / 13   10:55:29 ]
+Elapsed Time = 0:00:18.595544
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.890706] - D Loss : [0.759411] - D AUX Loss : [0.038163] - Sum : [2.688280]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   98] - End Time [ 2019 / 12 / 13   10:55:49 ]
+Elapsed Time = 0:00:18.640789
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.922131] - D Loss : [0.735746] - D AUX Loss : [0.039866] - Sum : [2.697743]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   99] - End Time [ 2019 / 12 / 13   10:56:10 ]
+Elapsed Time = 0:00:18.730191
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.868134] - D Loss : [0.744320] - D AUX Loss : [0.038506] - Sum : [2.650960]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  100] - End Time [ 2019 / 12 / 13   10:56:31 ]
+Elapsed Time = 0:00:18.636399
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.986000] - D Loss : [0.762476] - D AUX Loss : [0.039257] - Sum : [2.787733]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  101] - End Time [ 2019 / 12 / 13   10:56:51 ]
+Elapsed Time = 0:00:18.655575
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.945007] - D Loss : [0.757004] - D AUX Loss : [0.039645] - Sum : [2.741656]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  102] - End Time [ 2019 / 12 / 13   10:57:12 ]
+Elapsed Time = 0:00:18.641743
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.950068] - D Loss : [0.715883] - D AUX Loss : [0.037596] - Sum : [2.703547]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  103] - End Time [ 2019 / 12 / 13   10:57:33 ]
+Elapsed Time = 0:00:18.705757
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.027856] - D Loss : [0.729083] - D AUX Loss : [0.039262] - Sum : [2.796201]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  104] - End Time [ 2019 / 12 / 13   10:57:54 ]
+Elapsed Time = 0:00:18.693140
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.959917] - D Loss : [0.756088] - D AUX Loss : [0.038103] - Sum : [2.754108]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  105] - End Time [ 2019 / 12 / 13   10:58:14 ]
+Elapsed Time = 0:00:18.687681
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.941664] - D Loss : [0.755244] - D AUX Loss : [0.039981] - Sum : [2.736889]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  106] - End Time [ 2019 / 12 / 13   10:58:35 ]
+Elapsed Time = 0:00:18.608437
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.972959] - D Loss : [0.725064] - D AUX Loss : [0.037457] - Sum : [2.735480]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  107] - End Time [ 2019 / 12 / 13   10:58:56 ]
+Elapsed Time = 0:00:18.757486
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.965185] - D Loss : [0.746370] - D AUX Loss : [0.039005] - Sum : [2.750560]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  108] - End Time [ 2019 / 12 / 13   10:59:17 ]
+Elapsed Time = 0:00:18.593752
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.968714] - D Loss : [0.739465] - D AUX Loss : [0.038180] - Sum : [2.746360]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  109] - End Time [ 2019 / 12 / 13   10:59:37 ]
+Elapsed Time = 0:00:18.688061
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.978666] - D Loss : [0.728025] - D AUX Loss : [0.039128] - Sum : [2.745819]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  110] - End Time [ 2019 / 12 / 13   10:59:58 ]
+Elapsed Time = 0:00:18.617982
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.956480] - D Loss : [0.736919] - D AUX Loss : [0.036611] - Sum : [2.730011]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  111] - End Time [ 2019 / 12 / 13   11:00:19 ]
+Elapsed Time = 0:00:18.721867
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.961209] - D Loss : [0.772459] - D AUX Loss : [0.038817] - Sum : [2.772485]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  112] - End Time [ 2019 / 12 / 13   11:00:40 ]
+Elapsed Time = 0:00:18.624238
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.975919] - D Loss : [0.716992] - D AUX Loss : [0.039450] - Sum : [2.732361]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  113] - End Time [ 2019 / 12 / 13   11:01:00 ]
+Elapsed Time = 0:00:18.673080
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.966378] - D Loss : [0.727866] - D AUX Loss : [0.037753] - Sum : [2.731997]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  114] - End Time [ 2019 / 12 / 13   11:01:21 ]
+Elapsed Time = 0:00:18.661868
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.930997] - D Loss : [0.728546] - D AUX Loss : [0.038480] - Sum : [2.698022]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  115] - End Time [ 2019 / 12 / 13   11:01:42 ]
+Elapsed Time = 0:00:18.604008
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.989900] - D Loss : [0.728409] - D AUX Loss : [0.038494] - Sum : [2.756804]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  116] - End Time [ 2019 / 12 / 13   11:02:02 ]
+Elapsed Time = 0:00:18.624527
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.999267] - D Loss : [0.744841] - D AUX Loss : [0.038399] - Sum : [2.782506]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  117] - End Time [ 2019 / 12 / 13   11:02:23 ]
+Elapsed Time = 0:00:18.577013
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.992250] - D Loss : [0.749179] - D AUX Loss : [0.037127] - Sum : [2.778556]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  118] - End Time [ 2019 / 12 / 13   11:02:44 ]
+Elapsed Time = 0:00:18.648019
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.938790] - D Loss : [0.751357] - D AUX Loss : [0.038183] - Sum : [2.728330]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  119] - End Time [ 2019 / 12 / 13   11:03:04 ]
+Elapsed Time = 0:00:18.641442
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.951320] - D Loss : [0.729691] - D AUX Loss : [0.035279] - Sum : [2.716290]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  120] - End Time [ 2019 / 12 / 13   11:03:25 ]
+Elapsed Time = 0:00:18.583042
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.958125] - D Loss : [0.718598] - D AUX Loss : [0.038084] - Sum : [2.714807]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  121] - End Time [ 2019 / 12 / 13   11:03:46 ]
+Elapsed Time = 0:00:18.708089
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.970114] - D Loss : [0.743885] - D AUX Loss : [0.038446] - Sum : [2.752445]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  122] - End Time [ 2019 / 12 / 13   11:04:07 ]
+Elapsed Time = 0:00:18.656166
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.025334] - D Loss : [0.740781] - D AUX Loss : [0.035576] - Sum : [2.801691]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  123] - End Time [ 2019 / 12 / 13   11:04:27 ]
+Elapsed Time = 0:00:18.641258
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.005953] - D Loss : [0.745587] - D AUX Loss : [0.037564] - Sum : [2.789104]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  124] - End Time [ 2019 / 12 / 13   11:04:48 ]
+Elapsed Time = 0:00:18.597906
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.985572] - D Loss : [0.708340] - D AUX Loss : [0.035913] - Sum : [2.729825]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  125] - End Time [ 2019 / 12 / 13   11:05:09 ]
+Elapsed Time = 0:00:18.593788
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.009551] - D Loss : [0.725255] - D AUX Loss : [0.038602] - Sum : [2.773409]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  126] - End Time [ 2019 / 12 / 13   11:05:29 ]
+Elapsed Time = 0:00:18.659130
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.975310] - D Loss : [0.744352] - D AUX Loss : [0.036958] - Sum : [2.756620]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  127] - End Time [ 2019 / 12 / 13   11:05:50 ]
+Elapsed Time = 0:00:18.618750
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.055623] - D Loss : [0.745257] - D AUX Loss : [0.036479] - Sum : [2.837359]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  128] - End Time [ 2019 / 12 / 13   11:06:11 ]
+Elapsed Time = 0:00:18.659431
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.966537] - D Loss : [0.709348] - D AUX Loss : [0.038036] - Sum : [2.713921]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  129] - End Time [ 2019 / 12 / 13   11:06:31 ]
+Elapsed Time = 0:00:18.633180
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.022547] - D Loss : [0.717121] - D AUX Loss : [0.037339] - Sum : [2.777008]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  130] - End Time [ 2019 / 12 / 13   11:06:52 ]
+Elapsed Time = 0:00:18.669762
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.004255] - D Loss : [0.703075] - D AUX Loss : [0.035761] - Sum : [2.743090]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  131] - End Time [ 2019 / 12 / 13   11:07:13 ]
+Elapsed Time = 0:00:18.664302
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.031279] - D Loss : [0.735727] - D AUX Loss : [0.037069] - Sum : [2.804075]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  132] - End Time [ 2019 / 12 / 13   11:07:33 ]
+Elapsed Time = 0:00:18.626154
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.026687] - D Loss : [0.728686] - D AUX Loss : [0.038385] - Sum : [2.793758]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  133] - End Time [ 2019 / 12 / 13   11:07:54 ]
+Elapsed Time = 0:00:18.712034
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.051334] - D Loss : [0.740285] - D AUX Loss : [0.037298] - Sum : [2.828917]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  134] - End Time [ 2019 / 12 / 13   11:08:15 ]
+Elapsed Time = 0:00:18.635138
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.054968] - D Loss : [0.713005] - D AUX Loss : [0.036218] - Sum : [2.804190]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  135] - End Time [ 2019 / 12 / 13   11:08:36 ]
+Elapsed Time = 0:00:18.610640
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.002908] - D Loss : [0.744057] - D AUX Loss : [0.036575] - Sum : [2.783540]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  136] - End Time [ 2019 / 12 / 13   11:08:56 ]
+Elapsed Time = 0:00:18.654086
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.046142] - D Loss : [0.717613] - D AUX Loss : [0.036977] - Sum : [2.800731]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  137] - End Time [ 2019 / 12 / 13   11:09:17 ]
+Elapsed Time = 0:00:18.588176
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.071143] - D Loss : [0.738636] - D AUX Loss : [0.036404] - Sum : [2.846183]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  138] - End Time [ 2019 / 12 / 13   11:09:38 ]
+Elapsed Time = 0:00:18.670802
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.029989] - D Loss : [0.719024] - D AUX Loss : [0.036756] - Sum : [2.785769]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  139] - End Time [ 2019 / 12 / 13   11:09:59 ]
+Elapsed Time = 0:00:18.593850
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.002361] - D Loss : [0.718559] - D AUX Loss : [0.036437] - Sum : [2.757357]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  140] - End Time [ 2019 / 12 / 13   11:10:19 ]
+Elapsed Time = 0:00:18.578354
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.071738] - D Loss : [0.692454] - D AUX Loss : [0.037493] - Sum : [2.801685]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  141] - End Time [ 2019 / 12 / 13   11:10:40 ]
+Elapsed Time = 0:00:18.580730
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.032557] - D Loss : [0.715837] - D AUX Loss : [0.035529] - Sum : [2.783924]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  142] - End Time [ 2019 / 12 / 13   11:11:00 ]
+Elapsed Time = 0:00:18.632927
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.080630] - D Loss : [0.747777] - D AUX Loss : [0.036372] - Sum : [2.864779]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  143] - End Time [ 2019 / 12 / 13   11:11:21 ]
+Elapsed Time = 0:00:18.613254
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.045407] - D Loss : [0.740432] - D AUX Loss : [0.036880] - Sum : [2.822718]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  144] - End Time [ 2019 / 12 / 13   11:11:42 ]
+Elapsed Time = 0:00:18.696355
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.005935] - D Loss : [0.714205] - D AUX Loss : [0.035661] - Sum : [2.755801]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  145] - End Time [ 2019 / 12 / 13   11:12:03 ]
+Elapsed Time = 0:00:18.573358
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.073945] - D Loss : [0.735155] - D AUX Loss : [0.036679] - Sum : [2.845779]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  146] - End Time [ 2019 / 12 / 13   11:12:23 ]
+Elapsed Time = 0:00:18.607154
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.103291] - D Loss : [0.712945] - D AUX Loss : [0.036129] - Sum : [2.852366]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  147] - End Time [ 2019 / 12 / 13   11:12:44 ]
+Elapsed Time = 0:00:18.612996
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.076027] - D Loss : [0.712216] - D AUX Loss : [0.036744] - Sum : [2.824987]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  148] - End Time [ 2019 / 12 / 13   11:13:05 ]
+Elapsed Time = 0:00:18.773021
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.116650] - D Loss : [0.723930] - D AUX Loss : [0.037223] - Sum : [2.877804]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  149] - End Time [ 2019 / 12 / 13   11:13:26 ]
+Elapsed Time = 0:00:18.541490
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.074333] - D Loss : [0.722985] - D AUX Loss : [0.036203] - Sum : [2.833522]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  150] - End Time [ 2019 / 12 / 13   11:13:46 ]
+Elapsed Time = 0:00:18.599209
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.066650] - D Loss : [0.735914] - D AUX Loss : [0.035889] - Sum : [2.838453]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  151] - End Time [ 2019 / 12 / 13   11:14:07 ]
+Elapsed Time = 0:00:18.658946
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.052939] - D Loss : [0.723698] - D AUX Loss : [0.036920] - Sum : [2.813557]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  152] - End Time [ 2019 / 12 / 13   11:14:28 ]
+Elapsed Time = 0:00:18.641061
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.036579] - D Loss : [0.723002] - D AUX Loss : [0.036124] - Sum : [2.795705]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  153] - End Time [ 2019 / 12 / 13   11:14:48 ]
+Elapsed Time = 0:00:18.603627
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.053716] - D Loss : [0.719236] - D AUX Loss : [0.034986] - Sum : [2.807939]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  154] - End Time [ 2019 / 12 / 13   11:15:09 ]
+Elapsed Time = 0:00:18.611315
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.042038] - D Loss : [0.733383] - D AUX Loss : [0.035515] - Sum : [2.810935]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  155] - End Time [ 2019 / 12 / 13   11:15:30 ]
+Elapsed Time = 0:00:18.630396
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.071638] - D Loss : [0.714428] - D AUX Loss : [0.036771] - Sum : [2.822837]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  156] - End Time [ 2019 / 12 / 13   11:15:50 ]
+Elapsed Time = 0:00:18.689302
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.074721] - D Loss : [0.730005] - D AUX Loss : [0.035420] - Sum : [2.840146]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  157] - End Time [ 2019 / 12 / 13   11:16:11 ]
+Elapsed Time = 0:00:18.641890
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.059886] - D Loss : [0.740152] - D AUX Loss : [0.034721] - Sum : [2.834759]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  158] - End Time [ 2019 / 12 / 13   11:16:32 ]
+Elapsed Time = 0:00:18.657227
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.032520] - D Loss : [0.716564] - D AUX Loss : [0.035282] - Sum : [2.784366]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  159] - End Time [ 2019 / 12 / 13   11:16:52 ]
+Elapsed Time = 0:00:18.579814
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.032296] - D Loss : [0.718235] - D AUX Loss : [0.036728] - Sum : [2.787259]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  160] - End Time [ 2019 / 12 / 13   11:17:13 ]
+Elapsed Time = 0:00:18.664958
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.056879] - D Loss : [0.734011] - D AUX Loss : [0.035229] - Sum : [2.826119]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  161] - End Time [ 2019 / 12 / 13   11:17:34 ]
+Elapsed Time = 0:00:18.594892
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.093598] - D Loss : [0.727744] - D AUX Loss : [0.036290] - Sum : [2.857631]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  162] - End Time [ 2019 / 12 / 13   11:17:54 ]
+Elapsed Time = 0:00:18.642592
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.081285] - D Loss : [0.713963] - D AUX Loss : [0.034789] - Sum : [2.830038]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  163] - End Time [ 2019 / 12 / 13   11:18:15 ]
+Elapsed Time = 0:00:18.718503
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.046329] - D Loss : [0.741634] - D AUX Loss : [0.035557] - Sum : [2.823520]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  164] - End Time [ 2019 / 12 / 13   11:18:36 ]
+Elapsed Time = 0:00:18.587902
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.036048] - D Loss : [0.739440] - D AUX Loss : [0.035375] - Sum : [2.810863]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  165] - End Time [ 2019 / 12 / 13   11:18:57 ]
+Elapsed Time = 0:00:18.592944
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.082196] - D Loss : [0.755926] - D AUX Loss : [0.033665] - Sum : [2.871787]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  166] - End Time [ 2019 / 12 / 13   11:19:17 ]
+Elapsed Time = 0:00:18.596911
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.974762] - D Loss : [0.751086] - D AUX Loss : [0.034730] - Sum : [2.760577]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  167] - End Time [ 2019 / 12 / 13   11:19:38 ]
+Elapsed Time = 0:00:18.634501
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.998595] - D Loss : [0.726004] - D AUX Loss : [0.035113] - Sum : [2.759712]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  168] - End Time [ 2019 / 12 / 13   11:19:59 ]
+Elapsed Time = 0:00:18.657031
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.067450] - D Loss : [0.724559] - D AUX Loss : [0.036398] - Sum : [2.828407]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  169] - End Time [ 2019 / 12 / 13   11:20:20 ]
+Elapsed Time = 0:00:18.620027
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.062630] - D Loss : [0.753596] - D AUX Loss : [0.033831] - Sum : [2.850057]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  170] - End Time [ 2019 / 12 / 13   11:20:40 ]
+Elapsed Time = 0:00:18.661294
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.999296] - D Loss : [0.744528] - D AUX Loss : [0.035121] - Sum : [2.778946]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  171] - End Time [ 2019 / 12 / 13   11:21:01 ]
+Elapsed Time = 0:00:18.606335
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.031004] - D Loss : [0.751615] - D AUX Loss : [0.033464] - Sum : [2.816084]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  172] - End Time [ 2019 / 12 / 13   11:21:22 ]
+Elapsed Time = 0:00:18.653254
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.076690] - D Loss : [0.742786] - D AUX Loss : [0.033795] - Sum : [2.853270]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  173] - End Time [ 2019 / 12 / 13   11:21:42 ]
+Elapsed Time = 0:00:18.640011
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.005343] - D Loss : [0.722874] - D AUX Loss : [0.035415] - Sum : [2.763633]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  174] - End Time [ 2019 / 12 / 13   11:22:03 ]
+Elapsed Time = 0:00:18.668844
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.033761] - D Loss : [0.727755] - D AUX Loss : [0.034923] - Sum : [2.796439]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  175] - End Time [ 2019 / 12 / 13   11:22:24 ]
+Elapsed Time = 0:00:18.638446
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.091655] - D Loss : [0.706666] - D AUX Loss : [0.034233] - Sum : [2.832555]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  176] - End Time [ 2019 / 12 / 13   11:22:44 ]
+Elapsed Time = 0:00:18.679288
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.047171] - D Loss : [0.752471] - D AUX Loss : [0.033906] - Sum : [2.833548]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  177] - End Time [ 2019 / 12 / 13   11:23:05 ]
+Elapsed Time = 0:00:18.610457
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.051689] - D Loss : [0.710347] - D AUX Loss : [0.034544] - Sum : [2.796581]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  178] - End Time [ 2019 / 12 / 13   11:23:26 ]
+Elapsed Time = 0:00:18.729566
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.038118] - D Loss : [0.738074] - D AUX Loss : [0.036655] - Sum : [2.812846]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  179] - End Time [ 2019 / 12 / 13   11:23:46 ]
+Elapsed Time = 0:00:18.635896
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.051833] - D Loss : [0.739167] - D AUX Loss : [0.033779] - Sum : [2.824778]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  180] - End Time [ 2019 / 12 / 13   11:24:07 ]
+Elapsed Time = 0:00:18.662592
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.050790] - D Loss : [0.698150] - D AUX Loss : [0.033710] - Sum : [2.782651]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  181] - End Time [ 2019 / 12 / 13   11:24:28 ]
+Elapsed Time = 0:00:18.611240
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.042890] - D Loss : [0.740536] - D AUX Loss : [0.034170] - Sum : [2.817596]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  182] - End Time [ 2019 / 12 / 13   11:24:48 ]
+Elapsed Time = 0:00:18.639678
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.073960] - D Loss : [0.758248] - D AUX Loss : [0.034376] - Sum : [2.866584]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  183] - End Time [ 2019 / 12 / 13   11:25:09 ]
+Elapsed Time = 0:00:18.623144
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.091214] - D Loss : [0.732100] - D AUX Loss : [0.033687] - Sum : [2.857001]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  184] - End Time [ 2019 / 12 / 13   11:25:30 ]
+Elapsed Time = 0:00:18.616646
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.029320] - D Loss : [0.757105] - D AUX Loss : [0.033019] - Sum : [2.819443]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  185] - End Time [ 2019 / 12 / 13   11:25:50 ]
+Elapsed Time = 0:00:18.645571
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.036926] - D Loss : [0.732835] - D AUX Loss : [0.033382] - Sum : [2.803143]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  186] - End Time [ 2019 / 12 / 13   11:26:11 ]
+Elapsed Time = 0:00:18.574219
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.066652] - D Loss : [0.727978] - D AUX Loss : [0.033375] - Sum : [2.828005]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  187] - End Time [ 2019 / 12 / 13   11:26:32 ]
+Elapsed Time = 0:00:18.534090
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.014166] - D Loss : [0.734178] - D AUX Loss : [0.033171] - Sum : [2.781516]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  188] - End Time [ 2019 / 12 / 13   11:26:52 ]
+Elapsed Time = 0:00:18.567474
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.026420] - D Loss : [0.765423] - D AUX Loss : [0.034471] - Sum : [2.826314]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  189] - End Time [ 2019 / 12 / 13   11:27:13 ]
+Elapsed Time = 0:00:18.534444
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.056683] - D Loss : [0.748377] - D AUX Loss : [0.034703] - Sum : [2.839763]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  190] - End Time [ 2019 / 12 / 13   11:27:34 ]
+Elapsed Time = 0:00:18.619031
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.024913] - D Loss : [0.744426] - D AUX Loss : [0.034427] - Sum : [2.803766]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  191] - End Time [ 2019 / 12 / 13   11:27:54 ]
+Elapsed Time = 0:00:18.611257
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.004000] - D Loss : [0.736432] - D AUX Loss : [0.033408] - Sum : [2.773840]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  192] - End Time [ 2019 / 12 / 13   11:28:15 ]
+Elapsed Time = 0:00:18.664530
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.057547] - D Loss : [0.726054] - D AUX Loss : [0.033276] - Sum : [2.816876]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  193] - End Time [ 2019 / 12 / 13   11:28:36 ]
+Elapsed Time = 0:00:18.645133
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.016326] - D Loss : [0.741965] - D AUX Loss : [0.035022] - Sum : [2.793313]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  194] - End Time [ 2019 / 12 / 13   11:28:56 ]
+Elapsed Time = 0:00:18.658480
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.053237] - D Loss : [0.748927] - D AUX Loss : [0.034990] - Sum : [2.837154]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  195] - End Time [ 2019 / 12 / 13   11:29:17 ]
+Elapsed Time = 0:00:18.612960
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.002274] - D Loss : [0.755060] - D AUX Loss : [0.034534] - Sum : [2.791867]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  196] - End Time [ 2019 / 12 / 13   11:29:38 ]
+Elapsed Time = 0:00:18.705424
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.097721] - D Loss : [0.731293] - D AUX Loss : [0.033106] - Sum : [2.862121]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  197] - End Time [ 2019 / 12 / 13   11:29:59 ]
+Elapsed Time = 0:00:18.830566
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.052478] - D Loss : [0.731899] - D AUX Loss : [0.034778] - Sum : [2.819155]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  198] - End Time [ 2019 / 12 / 13   11:30:20 ]
+Elapsed Time = 0:00:18.900320
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.066420] - D Loss : [0.738608] - D AUX Loss : [0.033909] - Sum : [2.838938]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  199] - End Time [ 2019 / 12 / 13   11:30:40 ]
+Elapsed Time = 0:00:18.716350
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.015579] - D Loss : [0.743701] - D AUX Loss : [0.031913] - Sum : [2.791192]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  200] - End Time [ 2019 / 12 / 13   11:31:01 ]
+Elapsed Time = 0:00:18.662956
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.034827] - D Loss : [0.733121] - D AUX Loss : [0.033460] - Sum : [2.801408]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  201] - End Time [ 2019 / 12 / 13   11:31:22 ]
+Elapsed Time = 0:00:18.624290
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.088327] - D Loss : [0.732412] - D AUX Loss : [0.033886] - Sum : [2.854626]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  202] - End Time [ 2019 / 12 / 13   11:31:43 ]
+Elapsed Time = 0:00:18.669968
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.049465] - D Loss : [0.764903] - D AUX Loss : [0.034002] - Sum : [2.848370]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  203] - End Time [ 2019 / 12 / 13   11:32:03 ]
+Elapsed Time = 0:00:18.604942
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.033281] - D Loss : [0.758665] - D AUX Loss : [0.032843] - Sum : [2.824789]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  204] - End Time [ 2019 / 12 / 13   11:32:24 ]
+Elapsed Time = 0:00:18.585209
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.991312] - D Loss : [0.741368] - D AUX Loss : [0.034218] - Sum : [2.766898]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  205] - End Time [ 2019 / 12 / 13   11:32:44 ]
+Elapsed Time = 0:00:18.574719
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.012907] - D Loss : [0.755677] - D AUX Loss : [0.034261] - Sum : [2.802845]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  206] - End Time [ 2019 / 12 / 13   11:33:05 ]
+Elapsed Time = 0:00:18.646197
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.079006] - D Loss : [0.776442] - D AUX Loss : [0.032750] - Sum : [2.888198]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  207] - End Time [ 2019 / 12 / 13   11:33:26 ]
+Elapsed Time = 0:00:18.586743
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.115430] - D Loss : [0.733142] - D AUX Loss : [0.032604] - Sum : [2.881176]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  208] - End Time [ 2019 / 12 / 13   11:33:47 ]
+Elapsed Time = 0:00:18.711017
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.054195] - D Loss : [0.774511] - D AUX Loss : [0.032722] - Sum : [2.861428]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  209] - End Time [ 2019 / 12 / 13   11:34:07 ]
+Elapsed Time = 0:00:18.683857
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.029896] - D Loss : [0.753236] - D AUX Loss : [0.032933] - Sum : [2.816066]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  210] - End Time [ 2019 / 12 / 13   11:34:28 ]
+Elapsed Time = 0:00:18.618052
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.036951] - D Loss : [0.754949] - D AUX Loss : [0.034682] - Sum : [2.826583]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  211] - End Time [ 2019 / 12 / 13   11:34:49 ]
+Elapsed Time = 0:00:18.647247
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.996863] - D Loss : [0.739978] - D AUX Loss : [0.033761] - Sum : [2.770602]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  212] - End Time [ 2019 / 12 / 13   11:35:09 ]
+Elapsed Time = 0:00:18.643195
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.979326] - D Loss : [0.745063] - D AUX Loss : [0.033717] - Sum : [2.758106]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  213] - End Time [ 2019 / 12 / 13   11:35:30 ]
+Elapsed Time = 0:00:18.680628
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.058517] - D Loss : [0.757451] - D AUX Loss : [0.031784] - Sum : [2.847752]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  214] - End Time [ 2019 / 12 / 13   11:35:51 ]
+Elapsed Time = 0:00:18.684771
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.010046] - D Loss : [0.743792] - D AUX Loss : [0.033391] - Sum : [2.787229]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  215] - End Time [ 2019 / 12 / 13   11:36:12 ]
+Elapsed Time = 0:00:18.654494
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.051054] - D Loss : [0.732805] - D AUX Loss : [0.031081] - Sum : [2.814940]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  216] - End Time [ 2019 / 12 / 13   11:36:32 ]
+Elapsed Time = 0:00:18.654742
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.042848] - D Loss : [0.752212] - D AUX Loss : [0.033217] - Sum : [2.828276]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  217] - End Time [ 2019 / 12 / 13   11:36:53 ]
+Elapsed Time = 0:00:18.678347
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.020000] - D Loss : [0.741490] - D AUX Loss : [0.032220] - Sum : [2.793709]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  218] - End Time [ 2019 / 12 / 13   11:37:14 ]
+Elapsed Time = 0:00:18.604940
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.047524] - D Loss : [0.771204] - D AUX Loss : [0.033662] - Sum : [2.852390]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  219] - End Time [ 2019 / 12 / 13   11:37:34 ]
+Elapsed Time = 0:00:18.661393
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.010841] - D Loss : [0.746215] - D AUX Loss : [0.033264] - Sum : [2.790320]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  220] - End Time [ 2019 / 12 / 13   11:37:55 ]
+Elapsed Time = 0:00:18.682713
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.061423] - D Loss : [0.732763] - D AUX Loss : [0.032498] - Sum : [2.826684]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  221] - End Time [ 2019 / 12 / 13   11:38:16 ]
+Elapsed Time = 0:00:18.684154
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.035497] - D Loss : [0.761612] - D AUX Loss : [0.032690] - Sum : [2.829799]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  222] - End Time [ 2019 / 12 / 13   11:38:37 ]
+Elapsed Time = 0:00:18.627399
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.052990] - D Loss : [0.762914] - D AUX Loss : [0.034304] - Sum : [2.850208]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  223] - End Time [ 2019 / 12 / 13   11:38:57 ]
+Elapsed Time = 0:00:18.742697
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.008447] - D Loss : [0.775911] - D AUX Loss : [0.031440] - Sum : [2.815798]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  224] - End Time [ 2019 / 12 / 13   11:39:18 ]
+Elapsed Time = 0:00:18.630534
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.975175] - D Loss : [0.767591] - D AUX Loss : [0.033617] - Sum : [2.776383]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  225] - End Time [ 2019 / 12 / 13   11:39:39 ]
+Elapsed Time = 0:00:18.605179
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.026410] - D Loss : [0.762525] - D AUX Loss : [0.033946] - Sum : [2.822881]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  226] - End Time [ 2019 / 12 / 13   11:39:59 ]
+Elapsed Time = 0:00:18.564557
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.020356] - D Loss : [0.768582] - D AUX Loss : [0.032503] - Sum : [2.821441]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  227] - End Time [ 2019 / 12 / 13   11:40:20 ]
+Elapsed Time = 0:00:18.697136
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.001375] - D Loss : [0.758432] - D AUX Loss : [0.032330] - Sum : [2.792137]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  228] - End Time [ 2019 / 12 / 13   11:40:41 ]
+Elapsed Time = 0:00:18.597339
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.016349] - D Loss : [0.744141] - D AUX Loss : [0.032578] - Sum : [2.793068]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  229] - End Time [ 2019 / 12 / 13   11:41:01 ]
+Elapsed Time = 0:00:18.608006
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.013428] - D Loss : [0.777800] - D AUX Loss : [0.032722] - Sum : [2.823949]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  230] - End Time [ 2019 / 12 / 13   11:41:22 ]
+Elapsed Time = 0:00:18.574868
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.984035] - D Loss : [0.779243] - D AUX Loss : [0.031869] - Sum : [2.795148]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  231] - End Time [ 2019 / 12 / 13   11:41:43 ]
+Elapsed Time = 0:00:18.586936
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.003486] - D Loss : [0.758087] - D AUX Loss : [0.031666] - Sum : [2.793240]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  232] - End Time [ 2019 / 12 / 13   11:42:03 ]
+Elapsed Time = 0:00:18.646715
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.935891] - D Loss : [0.749422] - D AUX Loss : [0.031857] - Sum : [2.717170]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  233] - End Time [ 2019 / 12 / 13   11:42:24 ]
+Elapsed Time = 0:00:18.627807
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.034193] - D Loss : [0.787157] - D AUX Loss : [0.031344] - Sum : [2.852695]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  234] - End Time [ 2019 / 12 / 13   11:42:45 ]
+Elapsed Time = 0:00:18.648550
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.027639] - D Loss : [0.757735] - D AUX Loss : [0.032176] - Sum : [2.817550]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  235] - End Time [ 2019 / 12 / 13   11:43:05 ]
+Elapsed Time = 0:00:18.594773
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.997501] - D Loss : [0.746786] - D AUX Loss : [0.031767] - Sum : [2.776054]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  236] - End Time [ 2019 / 12 / 13   11:43:26 ]
+Elapsed Time = 0:00:18.632112
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.066061] - D Loss : [0.733878] - D AUX Loss : [0.032555] - Sum : [2.832494]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  237] - End Time [ 2019 / 12 / 13   11:43:47 ]
+Elapsed Time = 0:00:18.649700
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.941709] - D Loss : [0.762488] - D AUX Loss : [0.033063] - Sum : [2.737260]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  238] - End Time [ 2019 / 12 / 13   11:44:07 ]
+Elapsed Time = 0:00:18.701571
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.987651] - D Loss : [0.745228] - D AUX Loss : [0.032441] - Sum : [2.765320]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  239] - End Time [ 2019 / 12 / 13   11:44:28 ]
+Elapsed Time = 0:00:18.698245
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.968881] - D Loss : [0.769970] - D AUX Loss : [0.031651] - Sum : [2.770503]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  240] - End Time [ 2019 / 12 / 13   11:44:49 ]
+Elapsed Time = 0:00:18.598283
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.997167] - D Loss : [0.743746] - D AUX Loss : [0.032184] - Sum : [2.773098]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  241] - End Time [ 2019 / 12 / 13   11:45:09 ]
+Elapsed Time = 0:00:18.493869
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.012489] - D Loss : [0.762190] - D AUX Loss : [0.030599] - Sum : [2.805278]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  242] - End Time [ 2019 / 12 / 13   11:45:30 ]
+Elapsed Time = 0:00:18.608890
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.998036] - D Loss : [0.748901] - D AUX Loss : [0.032534] - Sum : [2.779471]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  243] - End Time [ 2019 / 12 / 13   11:45:51 ]
+Elapsed Time = 0:00:18.596588
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.009042] - D Loss : [0.781505] - D AUX Loss : [0.032162] - Sum : [2.822709]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  244] - End Time [ 2019 / 12 / 13   11:46:11 ]
+Elapsed Time = 0:00:18.636210
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.964589] - D Loss : [0.771353] - D AUX Loss : [0.033572] - Sum : [2.769513]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  245] - End Time [ 2019 / 12 / 13   11:46:32 ]
+Elapsed Time = 0:00:18.668783
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.000981] - D Loss : [0.745285] - D AUX Loss : [0.031367] - Sum : [2.777633]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  246] - End Time [ 2019 / 12 / 13   11:46:53 ]
+Elapsed Time = 0:00:18.646355
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.961473] - D Loss : [0.773297] - D AUX Loss : [0.030357] - Sum : [2.765127]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  247] - End Time [ 2019 / 12 / 13   11:47:13 ]
+Elapsed Time = 0:00:18.629521
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.045731] - D Loss : [0.758225] - D AUX Loss : [0.032761] - Sum : [2.836717]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  248] - End Time [ 2019 / 12 / 13   11:47:34 ]
+Elapsed Time = 0:00:18.618062
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.086936] - D Loss : [0.755674] - D AUX Loss : [0.032208] - Sum : [2.874818]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  249] - End Time [ 2019 / 12 / 13   11:47:55 ]
+Elapsed Time = 0:00:18.618333
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.984255] - D Loss : [0.757247] - D AUX Loss : [0.031475] - Sum : [2.772978]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  250] - End Time [ 2019 / 12 / 13   11:48:15 ]
+Elapsed Time = 0:00:18.598685
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.011541] - D Loss : [0.742125] - D AUX Loss : [0.030546] - Sum : [2.784213]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  251] - End Time [ 2019 / 12 / 13   11:48:36 ]
+Elapsed Time = 0:00:18.609834
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.005356] - D Loss : [0.760400] - D AUX Loss : [0.031052] - Sum : [2.796808]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  252] - End Time [ 2019 / 12 / 13   11:48:57 ]
+Elapsed Time = 0:00:18.677785
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.089241] - D Loss : [0.760437] - D AUX Loss : [0.031698] - Sum : [2.881376]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  253] - End Time [ 2019 / 12 / 13   11:49:18 ]
+Elapsed Time = 0:00:18.765862
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.052138] - D Loss : [0.745656] - D AUX Loss : [0.030796] - Sum : [2.828590]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  254] - End Time [ 2019 / 12 / 13   11:49:38 ]
+Elapsed Time = 0:00:18.643955
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.997618] - D Loss : [0.790564] - D AUX Loss : [0.031136] - Sum : [2.819318]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  255] - End Time [ 2019 / 12 / 13   11:49:59 ]
+Elapsed Time = 0:00:18.595459
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.005713] - D Loss : [0.779259] - D AUX Loss : [0.031131] - Sum : [2.816104]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  256] - End Time [ 2019 / 12 / 13   11:50:20 ]
+Elapsed Time = 0:00:18.580066
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.976768] - D Loss : [0.790829] - D AUX Loss : [0.030959] - Sum : [2.798556]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  257] - End Time [ 2019 / 12 / 13   11:50:40 ]
+Elapsed Time = 0:00:18.649059
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.001319] - D Loss : [0.791571] - D AUX Loss : [0.031262] - Sum : [2.824152]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  258] - End Time [ 2019 / 12 / 13   11:51:01 ]
+Elapsed Time = 0:00:18.654440
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.018967] - D Loss : [0.758293] - D AUX Loss : [0.031319] - Sum : [2.808580]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  259] - End Time [ 2019 / 12 / 13   11:51:22 ]
+Elapsed Time = 0:00:18.690711
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.983578] - D Loss : [0.763489] - D AUX Loss : [0.031556] - Sum : [2.778623]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  260] - End Time [ 2019 / 12 / 13   11:51:42 ]
+Elapsed Time = 0:00:18.597264
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.065933] - D Loss : [0.784115] - D AUX Loss : [0.032500] - Sum : [2.882548]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  261] - End Time [ 2019 / 12 / 13   11:52:03 ]
+Elapsed Time = 0:00:18.628692
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.965113] - D Loss : [0.734821] - D AUX Loss : [0.031004] - Sum : [2.730938]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  262] - End Time [ 2019 / 12 / 13   11:52:24 ]
+Elapsed Time = 0:00:18.591668
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.978013] - D Loss : [0.762608] - D AUX Loss : [0.030668] - Sum : [2.771289]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  263] - End Time [ 2019 / 12 / 13   11:52:44 ]
+Elapsed Time = 0:00:18.633200
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.022185] - D Loss : [0.761372] - D AUX Loss : [0.030629] - Sum : [2.814185]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  264] - End Time [ 2019 / 12 / 13   11:53:05 ]
+Elapsed Time = 0:00:18.610980
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.969654] - D Loss : [0.763012] - D AUX Loss : [0.029738] - Sum : [2.762404]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  265] - End Time [ 2019 / 12 / 13   11:53:26 ]
+Elapsed Time = 0:00:18.649510
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.032340] - D Loss : [0.753207] - D AUX Loss : [0.031518] - Sum : [2.817065]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  266] - End Time [ 2019 / 12 / 13   11:53:46 ]
+Elapsed Time = 0:00:18.657406
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.024248] - D Loss : [0.779390] - D AUX Loss : [0.032166] - Sum : [2.835804]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  267] - End Time [ 2019 / 12 / 13   11:54:07 ]
+Elapsed Time = 0:00:18.657388
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.065051] - D Loss : [0.765726] - D AUX Loss : [0.030156] - Sum : [2.860933]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  268] - End Time [ 2019 / 12 / 13   11:54:28 ]
+Elapsed Time = 0:00:18.685227
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.975836] - D Loss : [0.760356] - D AUX Loss : [0.030552] - Sum : [2.766744]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  269] - End Time [ 2019 / 12 / 13   11:54:49 ]
+Elapsed Time = 0:00:18.752428
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.013159] - D Loss : [0.790385] - D AUX Loss : [0.030814] - Sum : [2.834358]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  270] - End Time [ 2019 / 12 / 13   11:55:09 ]
+Elapsed Time = 0:00:18.572416
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.990493] - D Loss : [0.763358] - D AUX Loss : [0.031285] - Sum : [2.785136]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  271] - End Time [ 2019 / 12 / 13   11:55:30 ]
+Elapsed Time = 0:00:18.574855
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.991311] - D Loss : [0.769851] - D AUX Loss : [0.030387] - Sum : [2.791548]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  272] - End Time [ 2019 / 12 / 13   11:55:51 ]
+Elapsed Time = 0:00:18.668825
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.992084] - D Loss : [0.785680] - D AUX Loss : [0.030966] - Sum : [2.808731]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  273] - End Time [ 2019 / 12 / 13   11:56:11 ]
+Elapsed Time = 0:00:18.600374
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.045715] - D Loss : [0.765806] - D AUX Loss : [0.031875] - Sum : [2.843396]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  274] - End Time [ 2019 / 12 / 13   11:56:32 ]
+Elapsed Time = 0:00:18.709941
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.018148] - D Loss : [0.780446] - D AUX Loss : [0.030226] - Sum : [2.828820]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  275] - End Time [ 2019 / 12 / 13   11:56:53 ]
+Elapsed Time = 0:00:18.572993
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.003154] - D Loss : [0.756245] - D AUX Loss : [0.030983] - Sum : [2.790382]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  276] - End Time [ 2019 / 12 / 13   11:57:14 ]
+Elapsed Time = 0:00:18.525536
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.052145] - D Loss : [0.728025] - D AUX Loss : [0.031374] - Sum : [2.811544]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  277] - End Time [ 2019 / 12 / 13   11:57:34 ]
+Elapsed Time = 0:00:18.638412
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.043095] - D Loss : [0.765282] - D AUX Loss : [0.029565] - Sum : [2.837942]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  278] - End Time [ 2019 / 12 / 13   11:57:55 ]
+Elapsed Time = 0:00:18.639843
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.024635] - D Loss : [0.748003] - D AUX Loss : [0.030383] - Sum : [2.803020]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  279] - End Time [ 2019 / 12 / 13   11:58:16 ]
+Elapsed Time = 0:00:18.581158
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.044739] - D Loss : [0.770201] - D AUX Loss : [0.031925] - Sum : [2.846865]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  280] - End Time [ 2019 / 12 / 13   11:58:36 ]
+Elapsed Time = 0:00:18.558517
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.015702] - D Loss : [0.755328] - D AUX Loss : [0.030194] - Sum : [2.801224]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  281] - End Time [ 2019 / 12 / 13   11:58:57 ]
+Elapsed Time = 0:00:18.652092
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.017231] - D Loss : [0.779111] - D AUX Loss : [0.031145] - Sum : [2.827487]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  282] - End Time [ 2019 / 12 / 13   11:59:18 ]
+Elapsed Time = 0:00:18.622863
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.953221] - D Loss : [0.773208] - D AUX Loss : [0.032824] - Sum : [2.759252]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  283] - End Time [ 2019 / 12 / 13   11:59:38 ]
+Elapsed Time = 0:00:18.678939
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.960091] - D Loss : [0.768528] - D AUX Loss : [0.030320] - Sum : [2.758939]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  284] - End Time [ 2019 / 12 / 13   11:59:59 ]
+Elapsed Time = 0:00:18.676593
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.025974] - D Loss : [0.772152] - D AUX Loss : [0.029877] - Sum : [2.828003]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  285] - End Time [ 2019 / 12 / 13   12:00:20 ]
+Elapsed Time = 0:00:18.630402
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.013593] - D Loss : [0.755654] - D AUX Loss : [0.030049] - Sum : [2.799296]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  286] - End Time [ 2019 / 12 / 13   12:00:41 ]
+Elapsed Time = 0:00:18.643623
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.013355] - D Loss : [0.771239] - D AUX Loss : [0.029510] - Sum : [2.814104]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  287] - End Time [ 2019 / 12 / 13   12:01:01 ]
+Elapsed Time = 0:00:18.621275
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.003596] - D Loss : [0.773284] - D AUX Loss : [0.030462] - Sum : [2.807342]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  288] - End Time [ 2019 / 12 / 13   12:01:22 ]
+Elapsed Time = 0:00:18.590308
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.977819] - D Loss : [0.772048] - D AUX Loss : [0.031478] - Sum : [2.781345]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  289] - End Time [ 2019 / 12 / 13   12:01:43 ]
+Elapsed Time = 0:00:18.605723
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.941279] - D Loss : [0.771657] - D AUX Loss : [0.029479] - Sum : [2.742415]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  290] - End Time [ 2019 / 12 / 13   12:02:03 ]
+Elapsed Time = 0:00:18.617150
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.000093] - D Loss : [0.772054] - D AUX Loss : [0.029930] - Sum : [2.802077]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  291] - End Time [ 2019 / 12 / 13   12:02:24 ]
+Elapsed Time = 0:00:18.615382
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.992311] - D Loss : [0.762395] - D AUX Loss : [0.030603] - Sum : [2.785309]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  292] - End Time [ 2019 / 12 / 13   12:02:45 ]
+Elapsed Time = 0:00:18.677366
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.976635] - D Loss : [0.790706] - D AUX Loss : [0.029685] - Sum : [2.797026]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  293] - End Time [ 2019 / 12 / 13   12:03:05 ]
+Elapsed Time = 0:00:18.601793
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.967125] - D Loss : [0.781635] - D AUX Loss : [0.030048] - Sum : [2.778808]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  294] - End Time [ 2019 / 12 / 13   12:03:26 ]
+Elapsed Time = 0:00:18.584282
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.985654] - D Loss : [0.775274] - D AUX Loss : [0.031158] - Sum : [2.792086]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  295] - End Time [ 2019 / 12 / 13   12:03:47 ]
+Elapsed Time = 0:00:18.631286
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.024005] - D Loss : [0.761334] - D AUX Loss : [0.030010] - Sum : [2.815349]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  296] - End Time [ 2019 / 12 / 13   12:04:07 ]
+Elapsed Time = 0:00:18.612512
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.948277] - D Loss : [0.762668] - D AUX Loss : [0.031295] - Sum : [2.742240]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  297] - End Time [ 2019 / 12 / 13   12:04:28 ]
+Elapsed Time = 0:00:18.594173
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.027417] - D Loss : [0.758481] - D AUX Loss : [0.030917] - Sum : [2.816816]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  298] - End Time [ 2019 / 12 / 13   12:04:49 ]
+Elapsed Time = 0:00:18.676973
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.970021] - D Loss : [0.785082] - D AUX Loss : [0.029391] - Sum : [2.784494]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  299] - End Time [ 2019 / 12 / 13   12:05:09 ]
+Elapsed Time = 0:00:18.636324
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [1.996664] - D Loss : [0.772384] - D AUX Loss : [0.030219] - Sum : [2.799267]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  300] - End Time [ 2019 / 12 / 13   12:05:30 ]
+Elapsed Time = 0:00:18.627412
+G Learning Rate = [0.000200] - D Learning Rate = [0.000200]
+G Loss : [2.062793] - D Loss : [0.795686] - D AUX Loss : [0.030251] - Sum : [2.888730]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+

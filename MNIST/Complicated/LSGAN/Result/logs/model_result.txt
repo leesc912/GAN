@@ -1,0 +1,1806 @@
+Epoch = [    0] - End Time [ 2019 / 12 / 12   17:03:12 ]
+Elapsed Time = 0:00:23.284753
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.213735] - Discriminator Loss : [0.417219] - Sum : [0.630954]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [    1] - End Time [ 2019 / 12 / 12   17:03:31 ]
+Elapsed Time = 0:00:16.195709
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.152651] - Discriminator Loss : [0.302711] - Sum : [0.455362]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [    2] - End Time [ 2019 / 12 / 12   17:03:50 ]
+Elapsed Time = 0:00:15.991757
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.135202] - Discriminator Loss : [0.268658] - Sum : [0.403860]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [    3] - End Time [ 2019 / 12 / 12   17:04:09 ]
+Elapsed Time = 0:00:16.092239
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.128963] - Discriminator Loss : [0.256265] - Sum : [0.385229]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [    4] - End Time [ 2019 / 12 / 12   17:04:28 ]
+Elapsed Time = 0:00:16.132700
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.126722] - Discriminator Loss : [0.252212] - Sum : [0.378935]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [    5] - End Time [ 2019 / 12 / 12   17:04:47 ]
+Elapsed Time = 0:00:15.904530
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.125944] - Discriminator Loss : [0.250817] - Sum : [0.376761]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [    6] - End Time [ 2019 / 12 / 12   17:05:05 ]
+Elapsed Time = 0:00:15.963754
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.125751] - Discriminator Loss : [0.250366] - Sum : [0.376116]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [    7] - End Time [ 2019 / 12 / 12   17:05:24 ]
+Elapsed Time = 0:00:15.878972
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.127530] - Discriminator Loss : [0.248266] - Sum : [0.375796]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [    8] - End Time [ 2019 / 12 / 12   17:05:43 ]
+Elapsed Time = 0:00:15.938786
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.140651] - Discriminator Loss : [0.232714] - Sum : [0.373365]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [    9] - End Time [ 2019 / 12 / 12   17:06:01 ]
+Elapsed Time = 0:00:15.949913
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.148138] - Discriminator Loss : [0.225808] - Sum : [0.373946]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   10] - End Time [ 2019 / 12 / 12   17:06:20 ]
+Elapsed Time = 0:00:15.975452
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.162725] - Discriminator Loss : [0.213199] - Sum : [0.375924]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   11] - End Time [ 2019 / 12 / 12   17:06:39 ]
+Elapsed Time = 0:00:16.138842
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.179404] - Discriminator Loss : [0.199540] - Sum : [0.378944]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   12] - End Time [ 2019 / 12 / 12   17:06:57 ]
+Elapsed Time = 0:00:15.968620
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.193558] - Discriminator Loss : [0.187458] - Sum : [0.381016]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   13] - End Time [ 2019 / 12 / 12   17:07:16 ]
+Elapsed Time = 0:00:16.146213
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.202596] - Discriminator Loss : [0.180352] - Sum : [0.382948]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   14] - End Time [ 2019 / 12 / 12   17:07:35 ]
+Elapsed Time = 0:00:15.984529
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.214249] - Discriminator Loss : [0.174076] - Sum : [0.388325]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   15] - End Time [ 2019 / 12 / 12   17:07:54 ]
+Elapsed Time = 0:00:16.001863
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.221413] - Discriminator Loss : [0.170033] - Sum : [0.391446]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   16] - End Time [ 2019 / 12 / 12   17:08:12 ]
+Elapsed Time = 0:00:16.217829
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.228439] - Discriminator Loss : [0.165079] - Sum : [0.393519]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   17] - End Time [ 2019 / 12 / 12   17:08:31 ]
+Elapsed Time = 0:00:15.987602
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.232858] - Discriminator Loss : [0.160925] - Sum : [0.393783]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   18] - End Time [ 2019 / 12 / 12   17:08:50 ]
+Elapsed Time = 0:00:16.003950
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.236979] - Discriminator Loss : [0.159173] - Sum : [0.396152]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   19] - End Time [ 2019 / 12 / 12   17:09:09 ]
+Elapsed Time = 0:00:16.148278
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.242287] - Discriminator Loss : [0.156447] - Sum : [0.398734]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   20] - End Time [ 2019 / 12 / 12   17:09:28 ]
+Elapsed Time = 0:00:16.027204
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.243669] - Discriminator Loss : [0.152871] - Sum : [0.396540]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   21] - End Time [ 2019 / 12 / 12   17:09:47 ]
+Elapsed Time = 0:00:16.225589
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.251373] - Discriminator Loss : [0.151793] - Sum : [0.403166]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   22] - End Time [ 2019 / 12 / 12   17:10:06 ]
+Elapsed Time = 0:00:16.160935
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.254029] - Discriminator Loss : [0.148766] - Sum : [0.402795]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   23] - End Time [ 2019 / 12 / 12   17:10:25 ]
+Elapsed Time = 0:00:15.958192
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.260269] - Discriminator Loss : [0.145666] - Sum : [0.405935]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   24] - End Time [ 2019 / 12 / 12   17:10:44 ]
+Elapsed Time = 0:00:16.040457
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.264463] - Discriminator Loss : [0.141847] - Sum : [0.406309]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   25] - End Time [ 2019 / 12 / 12   17:11:02 ]
+Elapsed Time = 0:00:16.161809
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.265824] - Discriminator Loss : [0.141167] - Sum : [0.406991]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   26] - End Time [ 2019 / 12 / 12   17:11:21 ]
+Elapsed Time = 0:00:15.979402
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.275104] - Discriminator Loss : [0.138037] - Sum : [0.413141]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   27] - End Time [ 2019 / 12 / 12   17:11:40 ]
+Elapsed Time = 0:00:15.989252
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.276561] - Discriminator Loss : [0.137158] - Sum : [0.413719]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   28] - End Time [ 2019 / 12 / 12   17:11:58 ]
+Elapsed Time = 0:00:16.008741
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.282808] - Discriminator Loss : [0.134139] - Sum : [0.416947]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   29] - End Time [ 2019 / 12 / 12   17:12:17 ]
+Elapsed Time = 0:00:15.969074
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.282800] - Discriminator Loss : [0.131535] - Sum : [0.414335]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   30] - End Time [ 2019 / 12 / 12   17:12:36 ]
+Elapsed Time = 0:00:15.966695
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.284343] - Discriminator Loss : [0.127523] - Sum : [0.411866]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   31] - End Time [ 2019 / 12 / 12   17:12:54 ]
+Elapsed Time = 0:00:15.912584
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.298632] - Discriminator Loss : [0.128253] - Sum : [0.426885]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   32] - End Time [ 2019 / 12 / 12   17:13:13 ]
+Elapsed Time = 0:00:15.906710
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.294252] - Discriminator Loss : [0.126600] - Sum : [0.420853]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   33] - End Time [ 2019 / 12 / 12   17:13:32 ]
+Elapsed Time = 0:00:15.941261
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.300317] - Discriminator Loss : [0.124297] - Sum : [0.424614]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   34] - End Time [ 2019 / 12 / 12   17:13:51 ]
+Elapsed Time = 0:00:16.173102
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.300335] - Discriminator Loss : [0.122117] - Sum : [0.422452]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   35] - End Time [ 2019 / 12 / 12   17:14:10 ]
+Elapsed Time = 0:00:15.959815
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.305747] - Discriminator Loss : [0.118496] - Sum : [0.424243]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   36] - End Time [ 2019 / 12 / 12   17:14:28 ]
+Elapsed Time = 0:00:15.947844
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.303524] - Discriminator Loss : [0.119854] - Sum : [0.423378]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   37] - End Time [ 2019 / 12 / 12   17:14:47 ]
+Elapsed Time = 0:00:16.038469
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.304552] - Discriminator Loss : [0.116287] - Sum : [0.420838]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   38] - End Time [ 2019 / 12 / 12   17:15:06 ]
+Elapsed Time = 0:00:15.965877
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.312535] - Discriminator Loss : [0.119993] - Sum : [0.432528]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   39] - End Time [ 2019 / 12 / 12   17:15:25 ]
+Elapsed Time = 0:00:15.993149
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.313801] - Discriminator Loss : [0.117324] - Sum : [0.431126]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   40] - End Time [ 2019 / 12 / 12   17:15:44 ]
+Elapsed Time = 0:00:16.207864
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.315890] - Discriminator Loss : [0.118463] - Sum : [0.434353]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   41] - End Time [ 2019 / 12 / 12   17:16:03 ]
+Elapsed Time = 0:00:15.934609
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.311781] - Discriminator Loss : [0.114246] - Sum : [0.426027]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   42] - End Time [ 2019 / 12 / 12   17:16:21 ]
+Elapsed Time = 0:00:15.960793
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.323955] - Discriminator Loss : [0.112207] - Sum : [0.436162]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   43] - End Time [ 2019 / 12 / 12   17:16:40 ]
+Elapsed Time = 0:00:16.264924
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.319972] - Discriminator Loss : [0.115027] - Sum : [0.434999]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   44] - End Time [ 2019 / 12 / 12   17:16:59 ]
+Elapsed Time = 0:00:15.983404
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.315917] - Discriminator Loss : [0.113507] - Sum : [0.429423]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   45] - End Time [ 2019 / 12 / 12   17:17:18 ]
+Elapsed Time = 0:00:15.970909
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.324896] - Discriminator Loss : [0.110180] - Sum : [0.435076]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   46] - End Time [ 2019 / 12 / 12   17:17:36 ]
+Elapsed Time = 0:00:15.964272
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.323115] - Discriminator Loss : [0.109932] - Sum : [0.433047]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   47] - End Time [ 2019 / 12 / 12   17:17:55 ]
+Elapsed Time = 0:00:15.944756
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.323495] - Discriminator Loss : [0.108784] - Sum : [0.432279]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   48] - End Time [ 2019 / 12 / 12   17:18:14 ]
+Elapsed Time = 0:00:16.006148
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.328112] - Discriminator Loss : [0.111312] - Sum : [0.439424]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   49] - End Time [ 2019 / 12 / 12   17:18:33 ]
+Elapsed Time = 0:00:16.192641
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.330907] - Discriminator Loss : [0.109778] - Sum : [0.440685]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   50] - End Time [ 2019 / 12 / 12   17:18:52 ]
+Elapsed Time = 0:00:15.954378
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.335437] - Discriminator Loss : [0.108468] - Sum : [0.443905]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   51] - End Time [ 2019 / 12 / 12   17:19:10 ]
+Elapsed Time = 0:00:15.956491
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.327135] - Discriminator Loss : [0.110218] - Sum : [0.437353]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   52] - End Time [ 2019 / 12 / 12   17:19:29 ]
+Elapsed Time = 0:00:16.240502
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.332204] - Discriminator Loss : [0.109818] - Sum : [0.442021]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   53] - End Time [ 2019 / 12 / 12   17:19:48 ]
+Elapsed Time = 0:00:15.960192
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.331183] - Discriminator Loss : [0.108530] - Sum : [0.439713]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   54] - End Time [ 2019 / 12 / 12   17:20:07 ]
+Elapsed Time = 0:00:16.031423
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.326592] - Discriminator Loss : [0.107789] - Sum : [0.434381]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   55] - End Time [ 2019 / 12 / 12   17:20:25 ]
+Elapsed Time = 0:00:16.258387
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.334056] - Discriminator Loss : [0.109152] - Sum : [0.443208]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   56] - End Time [ 2019 / 12 / 12   17:20:44 ]
+Elapsed Time = 0:00:15.939254
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.327814] - Discriminator Loss : [0.106933] - Sum : [0.434747]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   57] - End Time [ 2019 / 12 / 12   17:21:03 ]
+Elapsed Time = 0:00:15.966443
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.335126] - Discriminator Loss : [0.107725] - Sum : [0.442851]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   58] - End Time [ 2019 / 12 / 12   17:21:22 ]
+Elapsed Time = 0:00:15.974727
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.335730] - Discriminator Loss : [0.107060] - Sum : [0.442791]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   59] - End Time [ 2019 / 12 / 12   17:21:41 ]
+Elapsed Time = 0:00:15.910655
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.333642] - Discriminator Loss : [0.102936] - Sum : [0.436577]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   60] - End Time [ 2019 / 12 / 12   17:21:59 ]
+Elapsed Time = 0:00:15.996553
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.334100] - Discriminator Loss : [0.109237] - Sum : [0.443337]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   61] - End Time [ 2019 / 12 / 12   17:22:18 ]
+Elapsed Time = 0:00:15.938402
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.339298] - Discriminator Loss : [0.102761] - Sum : [0.442059]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   62] - End Time [ 2019 / 12 / 12   17:22:37 ]
+Elapsed Time = 0:00:15.953777
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.341886] - Discriminator Loss : [0.104168] - Sum : [0.446055]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   63] - End Time [ 2019 / 12 / 12   17:22:55 ]
+Elapsed Time = 0:00:15.958464
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.336022] - Discriminator Loss : [0.105210] - Sum : [0.441233]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   64] - End Time [ 2019 / 12 / 12   17:23:14 ]
+Elapsed Time = 0:00:15.942755
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.338503] - Discriminator Loss : [0.105142] - Sum : [0.443645]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   65] - End Time [ 2019 / 12 / 12   17:23:33 ]
+Elapsed Time = 0:00:15.889224
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.334527] - Discriminator Loss : [0.105612] - Sum : [0.440139]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   66] - End Time [ 2019 / 12 / 12   17:23:52 ]
+Elapsed Time = 0:00:16.006144
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.336904] - Discriminator Loss : [0.105460] - Sum : [0.442364]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   67] - End Time [ 2019 / 12 / 12   17:24:10 ]
+Elapsed Time = 0:00:15.969411
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.340603] - Discriminator Loss : [0.103312] - Sum : [0.443915]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   68] - End Time [ 2019 / 12 / 12   17:24:29 ]
+Elapsed Time = 0:00:15.956079
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.340800] - Discriminator Loss : [0.104407] - Sum : [0.445207]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   69] - End Time [ 2019 / 12 / 12   17:24:48 ]
+Elapsed Time = 0:00:15.938424
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.339765] - Discriminator Loss : [0.104576] - Sum : [0.444341]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   70] - End Time [ 2019 / 12 / 12   17:25:06 ]
+Elapsed Time = 0:00:16.016082
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.332699] - Discriminator Loss : [0.105874] - Sum : [0.438573]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   71] - End Time [ 2019 / 12 / 12   17:25:25 ]
+Elapsed Time = 0:00:16.006271
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.343357] - Discriminator Loss : [0.104144] - Sum : [0.447502]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   72] - End Time [ 2019 / 12 / 12   17:25:44 ]
+Elapsed Time = 0:00:15.979099
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.342336] - Discriminator Loss : [0.105893] - Sum : [0.448229]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   73] - End Time [ 2019 / 12 / 12   17:26:02 ]
+Elapsed Time = 0:00:15.974247
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.343554] - Discriminator Loss : [0.105779] - Sum : [0.449334]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   74] - End Time [ 2019 / 12 / 12   17:26:21 ]
+Elapsed Time = 0:00:15.964088
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.339788] - Discriminator Loss : [0.099978] - Sum : [0.439766]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   75] - End Time [ 2019 / 12 / 12   17:26:40 ]
+Elapsed Time = 0:00:15.964536
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.340129] - Discriminator Loss : [0.100831] - Sum : [0.440960]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   76] - End Time [ 2019 / 12 / 12   17:26:59 ]
+Elapsed Time = 0:00:16.212078
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.340478] - Discriminator Loss : [0.102076] - Sum : [0.442553]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   77] - End Time [ 2019 / 12 / 12   17:27:18 ]
+Elapsed Time = 0:00:15.947997
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.346846] - Discriminator Loss : [0.104942] - Sum : [0.451788]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   78] - End Time [ 2019 / 12 / 12   17:27:36 ]
+Elapsed Time = 0:00:15.926556
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.345085] - Discriminator Loss : [0.100285] - Sum : [0.445370]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   79] - End Time [ 2019 / 12 / 12   17:27:55 ]
+Elapsed Time = 0:00:16.237312
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.335479] - Discriminator Loss : [0.102549] - Sum : [0.438028]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   80] - End Time [ 2019 / 12 / 12   17:28:14 ]
+Elapsed Time = 0:00:15.924465
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.349659] - Discriminator Loss : [0.104217] - Sum : [0.453877]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   81] - End Time [ 2019 / 12 / 12   17:28:33 ]
+Elapsed Time = 0:00:15.936971
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.340648] - Discriminator Loss : [0.107708] - Sum : [0.448355]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   82] - End Time [ 2019 / 12 / 12   17:28:51 ]
+Elapsed Time = 0:00:15.923084
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.343477] - Discriminator Loss : [0.104543] - Sum : [0.448020]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   83] - End Time [ 2019 / 12 / 12   17:29:10 ]
+Elapsed Time = 0:00:15.919157
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.346701] - Discriminator Loss : [0.101459] - Sum : [0.448160]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   84] - End Time [ 2019 / 12 / 12   17:29:29 ]
+Elapsed Time = 0:00:15.907232
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.341380] - Discriminator Loss : [0.102362] - Sum : [0.443741]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   85] - End Time [ 2019 / 12 / 12   17:29:47 ]
+Elapsed Time = 0:00:15.972648
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.348158] - Discriminator Loss : [0.103924] - Sum : [0.452082]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   86] - End Time [ 2019 / 12 / 12   17:30:06 ]
+Elapsed Time = 0:00:15.947239
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.337667] - Discriminator Loss : [0.101270] - Sum : [0.438937]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   87] - End Time [ 2019 / 12 / 12   17:30:25 ]
+Elapsed Time = 0:00:15.968280
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.350131] - Discriminator Loss : [0.101637] - Sum : [0.451769]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   88] - End Time [ 2019 / 12 / 12   17:30:44 ]
+Elapsed Time = 0:00:16.004813
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.344071] - Discriminator Loss : [0.104303] - Sum : [0.448374]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   89] - End Time [ 2019 / 12 / 12   17:31:03 ]
+Elapsed Time = 0:00:15.944112
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.337912] - Discriminator Loss : [0.103165] - Sum : [0.441078]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   90] - End Time [ 2019 / 12 / 12   17:31:21 ]
+Elapsed Time = 0:00:15.918797
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.340785] - Discriminator Loss : [0.100810] - Sum : [0.441595]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   91] - End Time [ 2019 / 12 / 12   17:31:40 ]
+Elapsed Time = 0:00:15.907484
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.343684] - Discriminator Loss : [0.101535] - Sum : [0.445218]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   92] - End Time [ 2019 / 12 / 12   17:31:59 ]
+Elapsed Time = 0:00:15.892817
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.340851] - Discriminator Loss : [0.100330] - Sum : [0.441181]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   93] - End Time [ 2019 / 12 / 12   17:32:17 ]
+Elapsed Time = 0:00:15.962792
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.351050] - Discriminator Loss : [0.104351] - Sum : [0.455402]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   94] - End Time [ 2019 / 12 / 12   17:32:36 ]
+Elapsed Time = 0:00:16.164630
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.339416] - Discriminator Loss : [0.101149] - Sum : [0.440565]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   95] - End Time [ 2019 / 12 / 12   17:32:55 ]
+Elapsed Time = 0:00:16.000680
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.346338] - Discriminator Loss : [0.101185] - Sum : [0.447522]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   96] - End Time [ 2019 / 12 / 12   17:33:14 ]
+Elapsed Time = 0:00:15.977270
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.348091] - Discriminator Loss : [0.099625] - Sum : [0.447716]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   97] - End Time [ 2019 / 12 / 12   17:33:33 ]
+Elapsed Time = 0:00:16.249305
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.346409] - Discriminator Loss : [0.100332] - Sum : [0.446741]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   98] - End Time [ 2019 / 12 / 12   17:33:52 ]
+Elapsed Time = 0:00:15.927090
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.356926] - Discriminator Loss : [0.105064] - Sum : [0.461990]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   99] - End Time [ 2019 / 12 / 12   17:34:10 ]
+Elapsed Time = 0:00:15.932951
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.346631] - Discriminator Loss : [0.102726] - Sum : [0.449357]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  100] - End Time [ 2019 / 12 / 12   17:34:29 ]
+Elapsed Time = 0:00:15.932897
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.343351] - Discriminator Loss : [0.099639] - Sum : [0.442990]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  101] - End Time [ 2019 / 12 / 12   17:34:48 ]
+Elapsed Time = 0:00:15.953851
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.346702] - Discriminator Loss : [0.099004] - Sum : [0.445706]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  102] - End Time [ 2019 / 12 / 12   17:35:07 ]
+Elapsed Time = 0:00:15.945029
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.345922] - Discriminator Loss : [0.100647] - Sum : [0.446570]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  103] - End Time [ 2019 / 12 / 12   17:35:25 ]
+Elapsed Time = 0:00:16.240663
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.350497] - Discriminator Loss : [0.102599] - Sum : [0.453096]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  104] - End Time [ 2019 / 12 / 12   17:35:45 ]
+Elapsed Time = 0:00:15.989665
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.349170] - Discriminator Loss : [0.100317] - Sum : [0.449487]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  105] - End Time [ 2019 / 12 / 12   17:36:03 ]
+Elapsed Time = 0:00:15.996605
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.354356] - Discriminator Loss : [0.099908] - Sum : [0.454264]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  106] - End Time [ 2019 / 12 / 12   17:36:22 ]
+Elapsed Time = 0:00:16.252115
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.345086] - Discriminator Loss : [0.096792] - Sum : [0.441878]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  107] - End Time [ 2019 / 12 / 12   17:36:41 ]
+Elapsed Time = 0:00:15.981947
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.353005] - Discriminator Loss : [0.100090] - Sum : [0.453095]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  108] - End Time [ 2019 / 12 / 12   17:37:00 ]
+Elapsed Time = 0:00:15.964462
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.343039] - Discriminator Loss : [0.103005] - Sum : [0.446044]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  109] - End Time [ 2019 / 12 / 12   17:37:18 ]
+Elapsed Time = 0:00:16.192030
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.345325] - Discriminator Loss : [0.102045] - Sum : [0.447370]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  110] - End Time [ 2019 / 12 / 12   17:37:37 ]
+Elapsed Time = 0:00:15.983308
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.353171] - Discriminator Loss : [0.099981] - Sum : [0.453153]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  111] - End Time [ 2019 / 12 / 12   17:37:56 ]
+Elapsed Time = 0:00:15.971423
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.348073] - Discriminator Loss : [0.098806] - Sum : [0.446879]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  112] - End Time [ 2019 / 12 / 12   17:38:15 ]
+Elapsed Time = 0:00:16.286799
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.352570] - Discriminator Loss : [0.098688] - Sum : [0.451258]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  113] - End Time [ 2019 / 12 / 12   17:38:34 ]
+Elapsed Time = 0:00:15.985339
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.352595] - Discriminator Loss : [0.101503] - Sum : [0.454098]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  114] - End Time [ 2019 / 12 / 12   17:38:52 ]
+Elapsed Time = 0:00:15.936508
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.358212] - Discriminator Loss : [0.099257] - Sum : [0.457469]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  115] - End Time [ 2019 / 12 / 12   17:39:11 ]
+Elapsed Time = 0:00:16.221886
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.350141] - Discriminator Loss : [0.098459] - Sum : [0.448601]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  116] - End Time [ 2019 / 12 / 12   17:39:30 ]
+Elapsed Time = 0:00:16.004328
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.347390] - Discriminator Loss : [0.102921] - Sum : [0.450311]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  117] - End Time [ 2019 / 12 / 12   17:39:49 ]
+Elapsed Time = 0:00:16.006556
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.337568] - Discriminator Loss : [0.097240] - Sum : [0.434808]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  118] - End Time [ 2019 / 12 / 12   17:40:08 ]
+Elapsed Time = 0:00:16.221172
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.349467] - Discriminator Loss : [0.098246] - Sum : [0.447712]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  119] - End Time [ 2019 / 12 / 12   17:40:27 ]
+Elapsed Time = 0:00:16.015179
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.347631] - Discriminator Loss : [0.104931] - Sum : [0.452562]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  120] - End Time [ 2019 / 12 / 12   17:40:46 ]
+Elapsed Time = 0:00:16.052036
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.343436] - Discriminator Loss : [0.098378] - Sum : [0.441814]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  121] - End Time [ 2019 / 12 / 12   17:41:05 ]
+Elapsed Time = 0:00:16.221193
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.339699] - Discriminator Loss : [0.103982] - Sum : [0.443681]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  122] - End Time [ 2019 / 12 / 12   17:41:24 ]
+Elapsed Time = 0:00:15.995929
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.343255] - Discriminator Loss : [0.098835] - Sum : [0.442090]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  123] - End Time [ 2019 / 12 / 12   17:41:42 ]
+Elapsed Time = 0:00:15.966159
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.337937] - Discriminator Loss : [0.097980] - Sum : [0.435917]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  124] - End Time [ 2019 / 12 / 12   17:42:01 ]
+Elapsed Time = 0:00:16.260032
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.351463] - Discriminator Loss : [0.100131] - Sum : [0.451594]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  125] - End Time [ 2019 / 12 / 12   17:42:20 ]
+Elapsed Time = 0:00:15.989214
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.349225] - Discriminator Loss : [0.099839] - Sum : [0.449064]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  126] - End Time [ 2019 / 12 / 12   17:42:39 ]
+Elapsed Time = 0:00:15.980010
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.348715] - Discriminator Loss : [0.099235] - Sum : [0.447950]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  127] - End Time [ 2019 / 12 / 12   17:42:57 ]
+Elapsed Time = 0:00:16.204228
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.348172] - Discriminator Loss : [0.099182] - Sum : [0.447354]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  128] - End Time [ 2019 / 12 / 12   17:43:17 ]
+Elapsed Time = 0:00:16.037935
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.335943] - Discriminator Loss : [0.103713] - Sum : [0.439657]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  129] - End Time [ 2019 / 12 / 12   17:43:35 ]
+Elapsed Time = 0:00:16.004949
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.353611] - Discriminator Loss : [0.102723] - Sum : [0.456334]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  130] - End Time [ 2019 / 12 / 12   17:43:54 ]
+Elapsed Time = 0:00:16.271933
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.350133] - Discriminator Loss : [0.100021] - Sum : [0.450154]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  131] - End Time [ 2019 / 12 / 12   17:44:13 ]
+Elapsed Time = 0:00:15.986813
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.356300] - Discriminator Loss : [0.098802] - Sum : [0.455102]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  132] - End Time [ 2019 / 12 / 12   17:44:32 ]
+Elapsed Time = 0:00:15.957449
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.352619] - Discriminator Loss : [0.097374] - Sum : [0.449993]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  133] - End Time [ 2019 / 12 / 12   17:44:50 ]
+Elapsed Time = 0:00:16.240213
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.345847] - Discriminator Loss : [0.101563] - Sum : [0.447410]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  134] - End Time [ 2019 / 12 / 12   17:45:10 ]
+Elapsed Time = 0:00:16.006695
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.337902] - Discriminator Loss : [0.098599] - Sum : [0.436501]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  135] - End Time [ 2019 / 12 / 12   17:45:28 ]
+Elapsed Time = 0:00:15.965067
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.343591] - Discriminator Loss : [0.102522] - Sum : [0.446113]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  136] - End Time [ 2019 / 12 / 12   17:45:47 ]
+Elapsed Time = 0:00:16.330050
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.356526] - Discriminator Loss : [0.100014] - Sum : [0.456540]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  137] - End Time [ 2019 / 12 / 12   17:46:06 ]
+Elapsed Time = 0:00:16.029297
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.352000] - Discriminator Loss : [0.099845] - Sum : [0.451845]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  138] - End Time [ 2019 / 12 / 12   17:46:25 ]
+Elapsed Time = 0:00:15.989880
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.339443] - Discriminator Loss : [0.100316] - Sum : [0.439759]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  139] - End Time [ 2019 / 12 / 12   17:46:44 ]
+Elapsed Time = 0:00:16.251964
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.349899] - Discriminator Loss : [0.100449] - Sum : [0.450347]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  140] - End Time [ 2019 / 12 / 12   17:47:03 ]
+Elapsed Time = 0:00:15.981347
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.344027] - Discriminator Loss : [0.102198] - Sum : [0.446225]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  141] - End Time [ 2019 / 12 / 12   17:47:21 ]
+Elapsed Time = 0:00:15.988181
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.353683] - Discriminator Loss : [0.103889] - Sum : [0.457572]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  142] - End Time [ 2019 / 12 / 12   17:47:40 ]
+Elapsed Time = 0:00:16.242478
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.354222] - Discriminator Loss : [0.099182] - Sum : [0.453404]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  143] - End Time [ 2019 / 12 / 12   17:47:59 ]
+Elapsed Time = 0:00:16.067318
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.353714] - Discriminator Loss : [0.100445] - Sum : [0.454159]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  144] - End Time [ 2019 / 12 / 12   17:48:18 ]
+Elapsed Time = 0:00:16.074734
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.339795] - Discriminator Loss : [0.096460] - Sum : [0.436255]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  145] - End Time [ 2019 / 12 / 12   17:48:37 ]
+Elapsed Time = 0:00:16.457878
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.345167] - Discriminator Loss : [0.098998] - Sum : [0.444164]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  146] - End Time [ 2019 / 12 / 12   17:48:56 ]
+Elapsed Time = 0:00:16.063307
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.337902] - Discriminator Loss : [0.104018] - Sum : [0.441920]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  147] - End Time [ 2019 / 12 / 12   17:49:15 ]
+Elapsed Time = 0:00:16.058193
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.355207] - Discriminator Loss : [0.104434] - Sum : [0.459641]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  148] - End Time [ 2019 / 12 / 12   17:49:34 ]
+Elapsed Time = 0:00:16.316454
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.352527] - Discriminator Loss : [0.100588] - Sum : [0.453115]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  149] - End Time [ 2019 / 12 / 12   17:49:53 ]
+Elapsed Time = 0:00:16.021183
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.344913] - Discriminator Loss : [0.099666] - Sum : [0.444578]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  150] - End Time [ 2019 / 12 / 12   17:50:12 ]
+Elapsed Time = 0:00:15.981080
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.355410] - Discriminator Loss : [0.102192] - Sum : [0.457602]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  151] - End Time [ 2019 / 12 / 12   17:50:31 ]
+Elapsed Time = 0:00:16.352945
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.347764] - Discriminator Loss : [0.101272] - Sum : [0.449036]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  152] - End Time [ 2019 / 12 / 12   17:50:50 ]
+Elapsed Time = 0:00:15.992090
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.353337] - Discriminator Loss : [0.097042] - Sum : [0.450378]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  153] - End Time [ 2019 / 12 / 12   17:51:09 ]
+Elapsed Time = 0:00:16.172574
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.347899] - Discriminator Loss : [0.100848] - Sum : [0.448748]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  154] - End Time [ 2019 / 12 / 12   17:51:28 ]
+Elapsed Time = 0:00:16.732031
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.348593] - Discriminator Loss : [0.100259] - Sum : [0.448852]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  155] - End Time [ 2019 / 12 / 12   17:51:48 ]
+Elapsed Time = 0:00:16.155037
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.345946] - Discriminator Loss : [0.100645] - Sum : [0.446591]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  156] - End Time [ 2019 / 12 / 12   17:52:07 ]
+Elapsed Time = 0:00:16.026523
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.347585] - Discriminator Loss : [0.100451] - Sum : [0.448037]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  157] - End Time [ 2019 / 12 / 12   17:52:25 ]
+Elapsed Time = 0:00:16.327223
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.336274] - Discriminator Loss : [0.104046] - Sum : [0.440320]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  158] - End Time [ 2019 / 12 / 12   17:52:45 ]
+Elapsed Time = 0:00:16.377824
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.348378] - Discriminator Loss : [0.104663] - Sum : [0.453041]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  159] - End Time [ 2019 / 12 / 12   17:53:04 ]
+Elapsed Time = 0:00:16.182996
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.354401] - Discriminator Loss : [0.096784] - Sum : [0.451185]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  160] - End Time [ 2019 / 12 / 12   17:53:23 ]
+Elapsed Time = 0:00:16.242591
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.346596] - Discriminator Loss : [0.100075] - Sum : [0.446671]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  161] - End Time [ 2019 / 12 / 12   17:53:42 ]
+Elapsed Time = 0:00:15.985661
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.355922] - Discriminator Loss : [0.098807] - Sum : [0.454730]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  162] - End Time [ 2019 / 12 / 12   17:54:01 ]
+Elapsed Time = 0:00:16.053648
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.351578] - Discriminator Loss : [0.101701] - Sum : [0.453279]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  163] - End Time [ 2019 / 12 / 12   17:54:20 ]
+Elapsed Time = 0:00:16.188101
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.342329] - Discriminator Loss : [0.101007] - Sum : [0.443336]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  164] - End Time [ 2019 / 12 / 12   17:54:39 ]
+Elapsed Time = 0:00:16.008181
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.340472] - Discriminator Loss : [0.099629] - Sum : [0.440101]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  165] - End Time [ 2019 / 12 / 12   17:54:58 ]
+Elapsed Time = 0:00:15.970105
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.346116] - Discriminator Loss : [0.098003] - Sum : [0.444119]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  166] - End Time [ 2019 / 12 / 12   17:55:16 ]
+Elapsed Time = 0:00:16.228639
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.348287] - Discriminator Loss : [0.098305] - Sum : [0.446592]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  167] - End Time [ 2019 / 12 / 12   17:55:36 ]
+Elapsed Time = 0:00:15.968358
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.341361] - Discriminator Loss : [0.101238] - Sum : [0.442599]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  168] - End Time [ 2019 / 12 / 12   17:55:54 ]
+Elapsed Time = 0:00:15.978168
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.343189] - Discriminator Loss : [0.100387] - Sum : [0.443575]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  169] - End Time [ 2019 / 12 / 12   17:56:13 ]
+Elapsed Time = 0:00:16.315308
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.353385] - Discriminator Loss : [0.101548] - Sum : [0.454933]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  170] - End Time [ 2019 / 12 / 12   17:56:32 ]
+Elapsed Time = 0:00:15.994383
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.341451] - Discriminator Loss : [0.101608] - Sum : [0.443059]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  171] - End Time [ 2019 / 12 / 12   17:56:51 ]
+Elapsed Time = 0:00:15.989678
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.340275] - Discriminator Loss : [0.102366] - Sum : [0.442641]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  172] - End Time [ 2019 / 12 / 12   17:57:10 ]
+Elapsed Time = 0:00:16.340202
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.344329] - Discriminator Loss : [0.100201] - Sum : [0.444531]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  173] - End Time [ 2019 / 12 / 12   17:57:29 ]
+Elapsed Time = 0:00:15.976275
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.348475] - Discriminator Loss : [0.098135] - Sum : [0.446609]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  174] - End Time [ 2019 / 12 / 12   17:57:48 ]
+Elapsed Time = 0:00:15.916740
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.355413] - Discriminator Loss : [0.096543] - Sum : [0.451955]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  175] - End Time [ 2019 / 12 / 12   17:58:06 ]
+Elapsed Time = 0:00:15.979551
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.350296] - Discriminator Loss : [0.098200] - Sum : [0.448496]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  176] - End Time [ 2019 / 12 / 12   17:58:25 ]
+Elapsed Time = 0:00:15.966350
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.352381] - Discriminator Loss : [0.104059] - Sum : [0.456440]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  177] - End Time [ 2019 / 12 / 12   17:58:44 ]
+Elapsed Time = 0:00:15.989475
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.342878] - Discriminator Loss : [0.101126] - Sum : [0.444004]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  178] - End Time [ 2019 / 12 / 12   17:59:03 ]
+Elapsed Time = 0:00:16.270322
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.349147] - Discriminator Loss : [0.098546] - Sum : [0.447693]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  179] - End Time [ 2019 / 12 / 12   17:59:22 ]
+Elapsed Time = 0:00:15.934825
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.355219] - Discriminator Loss : [0.100683] - Sum : [0.455902]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  180] - End Time [ 2019 / 12 / 12   17:59:41 ]
+Elapsed Time = 0:00:15.984005
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.342967] - Discriminator Loss : [0.098109] - Sum : [0.441076]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  181] - End Time [ 2019 / 12 / 12   17:59:59 ]
+Elapsed Time = 0:00:16.221156
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.354161] - Discriminator Loss : [0.099828] - Sum : [0.453989]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  182] - End Time [ 2019 / 12 / 12   18:00:18 ]
+Elapsed Time = 0:00:16.031750
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.344260] - Discriminator Loss : [0.099182] - Sum : [0.443442]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  183] - End Time [ 2019 / 12 / 12   18:00:37 ]
+Elapsed Time = 0:00:15.978273
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.356258] - Discriminator Loss : [0.100883] - Sum : [0.457140]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  184] - End Time [ 2019 / 12 / 12   18:00:56 ]
+Elapsed Time = 0:00:16.237430
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.345553] - Discriminator Loss : [0.099893] - Sum : [0.445445]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  185] - End Time [ 2019 / 12 / 12   18:01:15 ]
+Elapsed Time = 0:00:16.019924
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.354543] - Discriminator Loss : [0.101225] - Sum : [0.455768]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  186] - End Time [ 2019 / 12 / 12   18:01:34 ]
+Elapsed Time = 0:00:16.001039
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.344808] - Discriminator Loss : [0.102735] - Sum : [0.447543]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  187] - End Time [ 2019 / 12 / 12   18:01:52 ]
+Elapsed Time = 0:00:15.994826
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.356027] - Discriminator Loss : [0.100546] - Sum : [0.456573]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  188] - End Time [ 2019 / 12 / 12   18:02:11 ]
+Elapsed Time = 0:00:15.990964
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.351970] - Discriminator Loss : [0.104180] - Sum : [0.456150]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  189] - End Time [ 2019 / 12 / 12   18:02:30 ]
+Elapsed Time = 0:00:15.984542
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.348505] - Discriminator Loss : [0.100839] - Sum : [0.449344]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  190] - End Time [ 2019 / 12 / 12   18:02:48 ]
+Elapsed Time = 0:00:15.977041
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.358162] - Discriminator Loss : [0.097624] - Sum : [0.455785]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  191] - End Time [ 2019 / 12 / 12   18:03:07 ]
+Elapsed Time = 0:00:15.962973
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.353041] - Discriminator Loss : [0.101573] - Sum : [0.454614]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  192] - End Time [ 2019 / 12 / 12   18:03:26 ]
+Elapsed Time = 0:00:15.957920
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.348160] - Discriminator Loss : [0.102480] - Sum : [0.450640]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  193] - End Time [ 2019 / 12 / 12   18:03:44 ]
+Elapsed Time = 0:00:15.968342
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.351553] - Discriminator Loss : [0.098971] - Sum : [0.450524]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  194] - End Time [ 2019 / 12 / 12   18:04:03 ]
+Elapsed Time = 0:00:15.977733
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.357759] - Discriminator Loss : [0.098349] - Sum : [0.456108]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  195] - End Time [ 2019 / 12 / 12   18:04:22 ]
+Elapsed Time = 0:00:15.947224
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.340024] - Discriminator Loss : [0.095729] - Sum : [0.435753]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  196] - End Time [ 2019 / 12 / 12   18:04:41 ]
+Elapsed Time = 0:00:15.937488
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.339546] - Discriminator Loss : [0.101279] - Sum : [0.440825]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  197] - End Time [ 2019 / 12 / 12   18:05:00 ]
+Elapsed Time = 0:00:16.000204
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.349946] - Discriminator Loss : [0.102167] - Sum : [0.452113]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  198] - End Time [ 2019 / 12 / 12   18:05:18 ]
+Elapsed Time = 0:00:15.994499
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.348376] - Discriminator Loss : [0.101467] - Sum : [0.449843]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  199] - End Time [ 2019 / 12 / 12   18:05:37 ]
+Elapsed Time = 0:00:15.937357
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.357421] - Discriminator Loss : [0.100707] - Sum : [0.458128]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  200] - End Time [ 2019 / 12 / 12   18:05:56 ]
+Elapsed Time = 0:00:16.029481
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.347274] - Discriminator Loss : [0.100943] - Sum : [0.448218]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  201] - End Time [ 2019 / 12 / 12   18:06:15 ]
+Elapsed Time = 0:00:15.973947
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.354468] - Discriminator Loss : [0.100765] - Sum : [0.455233]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  202] - End Time [ 2019 / 12 / 12   18:06:33 ]
+Elapsed Time = 0:00:15.966207
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.353439] - Discriminator Loss : [0.102527] - Sum : [0.455966]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  203] - End Time [ 2019 / 12 / 12   18:06:52 ]
+Elapsed Time = 0:00:16.042473
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.357020] - Discriminator Loss : [0.098504] - Sum : [0.455523]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  204] - End Time [ 2019 / 12 / 12   18:07:11 ]
+Elapsed Time = 0:00:15.992256
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.348027] - Discriminator Loss : [0.099111] - Sum : [0.447137]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  205] - End Time [ 2019 / 12 / 12   18:07:29 ]
+Elapsed Time = 0:00:15.982499
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.342397] - Discriminator Loss : [0.095390] - Sum : [0.437787]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  206] - End Time [ 2019 / 12 / 12   18:07:48 ]
+Elapsed Time = 0:00:15.989119
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.355170] - Discriminator Loss : [0.098622] - Sum : [0.453792]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  207] - End Time [ 2019 / 12 / 12   18:08:07 ]
+Elapsed Time = 0:00:15.999870
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.357536] - Discriminator Loss : [0.101170] - Sum : [0.458706]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  208] - End Time [ 2019 / 12 / 12   18:08:25 ]
+Elapsed Time = 0:00:16.012409
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.346351] - Discriminator Loss : [0.106507] - Sum : [0.452858]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  209] - End Time [ 2019 / 12 / 12   18:08:44 ]
+Elapsed Time = 0:00:15.949004
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.354519] - Discriminator Loss : [0.097622] - Sum : [0.452141]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  210] - End Time [ 2019 / 12 / 12   18:09:03 ]
+Elapsed Time = 0:00:16.010430
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.350215] - Discriminator Loss : [0.096732] - Sum : [0.446947]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  211] - End Time [ 2019 / 12 / 12   18:09:21 ]
+Elapsed Time = 0:00:15.982319
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.359885] - Discriminator Loss : [0.102021] - Sum : [0.461906]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  212] - End Time [ 2019 / 12 / 12   18:09:40 ]
+Elapsed Time = 0:00:15.976091
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.354504] - Discriminator Loss : [0.097002] - Sum : [0.451507]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  213] - End Time [ 2019 / 12 / 12   18:09:59 ]
+Elapsed Time = 0:00:15.990792
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.350776] - Discriminator Loss : [0.100255] - Sum : [0.451030]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  214] - End Time [ 2019 / 12 / 12   18:10:17 ]
+Elapsed Time = 0:00:15.961049
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.348924] - Discriminator Loss : [0.097576] - Sum : [0.446500]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  215] - End Time [ 2019 / 12 / 12   18:10:36 ]
+Elapsed Time = 0:00:15.984224
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.347224] - Discriminator Loss : [0.102999] - Sum : [0.450224]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  216] - End Time [ 2019 / 12 / 12   18:10:55 ]
+Elapsed Time = 0:00:15.975186
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.354642] - Discriminator Loss : [0.096065] - Sum : [0.450707]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  217] - End Time [ 2019 / 12 / 12   18:11:13 ]
+Elapsed Time = 0:00:15.950402
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.359511] - Discriminator Loss : [0.098072] - Sum : [0.457583]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  218] - End Time [ 2019 / 12 / 12   18:11:32 ]
+Elapsed Time = 0:00:16.007379
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.353698] - Discriminator Loss : [0.099517] - Sum : [0.453215]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  219] - End Time [ 2019 / 12 / 12   18:11:51 ]
+Elapsed Time = 0:00:15.970121
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.344279] - Discriminator Loss : [0.098802] - Sum : [0.443081]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  220] - End Time [ 2019 / 12 / 12   18:12:10 ]
+Elapsed Time = 0:00:16.027119
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.358776] - Discriminator Loss : [0.102500] - Sum : [0.461275]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  221] - End Time [ 2019 / 12 / 12   18:12:29 ]
+Elapsed Time = 0:00:15.958634
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.360573] - Discriminator Loss : [0.099179] - Sum : [0.459752]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  222] - End Time [ 2019 / 12 / 12   18:12:47 ]
+Elapsed Time = 0:00:15.975053
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.339027] - Discriminator Loss : [0.097614] - Sum : [0.436642]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  223] - End Time [ 2019 / 12 / 12   18:13:06 ]
+Elapsed Time = 0:00:15.987438
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.354457] - Discriminator Loss : [0.099211] - Sum : [0.453668]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  224] - End Time [ 2019 / 12 / 12   18:13:25 ]
+Elapsed Time = 0:00:15.966403
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.352327] - Discriminator Loss : [0.095887] - Sum : [0.448214]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  225] - End Time [ 2019 / 12 / 12   18:13:44 ]
+Elapsed Time = 0:00:15.976706
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.354564] - Discriminator Loss : [0.095394] - Sum : [0.449957]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  226] - End Time [ 2019 / 12 / 12   18:14:02 ]
+Elapsed Time = 0:00:16.076228
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.336243] - Discriminator Loss : [0.099231] - Sum : [0.435475]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  227] - End Time [ 2019 / 12 / 12   18:14:21 ]
+Elapsed Time = 0:00:16.008337
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.343295] - Discriminator Loss : [0.096989] - Sum : [0.440284]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  228] - End Time [ 2019 / 12 / 12   18:14:40 ]
+Elapsed Time = 0:00:15.988173
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.353616] - Discriminator Loss : [0.100457] - Sum : [0.454073]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  229] - End Time [ 2019 / 12 / 12   18:14:58 ]
+Elapsed Time = 0:00:15.996044
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.352043] - Discriminator Loss : [0.101639] - Sum : [0.453682]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  230] - End Time [ 2019 / 12 / 12   18:15:18 ]
+Elapsed Time = 0:00:16.010743
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.349620] - Discriminator Loss : [0.099055] - Sum : [0.448675]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  231] - End Time [ 2019 / 12 / 12   18:15:36 ]
+Elapsed Time = 0:00:16.022952
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.354283] - Discriminator Loss : [0.096266] - Sum : [0.450549]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  232] - End Time [ 2019 / 12 / 12   18:15:55 ]
+Elapsed Time = 0:00:16.014893
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.351508] - Discriminator Loss : [0.099258] - Sum : [0.450767]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  233] - End Time [ 2019 / 12 / 12   18:16:14 ]
+Elapsed Time = 0:00:16.061212
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.346678] - Discriminator Loss : [0.099858] - Sum : [0.446535]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  234] - End Time [ 2019 / 12 / 12   18:16:33 ]
+Elapsed Time = 0:00:15.991771
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.350743] - Discriminator Loss : [0.102238] - Sum : [0.452981]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  235] - End Time [ 2019 / 12 / 12   18:16:51 ]
+Elapsed Time = 0:00:16.007846
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.347796] - Discriminator Loss : [0.098779] - Sum : [0.446575]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  236] - End Time [ 2019 / 12 / 12   18:17:10 ]
+Elapsed Time = 0:00:16.062011
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.349614] - Discriminator Loss : [0.100878] - Sum : [0.450492]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  237] - End Time [ 2019 / 12 / 12   18:17:29 ]
+Elapsed Time = 0:00:15.983203
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.351424] - Discriminator Loss : [0.096280] - Sum : [0.447704]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  238] - End Time [ 2019 / 12 / 12   18:17:48 ]
+Elapsed Time = 0:00:16.022960
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.351942] - Discriminator Loss : [0.098100] - Sum : [0.450042]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  239] - End Time [ 2019 / 12 / 12   18:18:07 ]
+Elapsed Time = 0:00:16.036125
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.344498] - Discriminator Loss : [0.101704] - Sum : [0.446202]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  240] - End Time [ 2019 / 12 / 12   18:18:26 ]
+Elapsed Time = 0:00:16.008341
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.353940] - Discriminator Loss : [0.096694] - Sum : [0.450634]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  241] - End Time [ 2019 / 12 / 12   18:18:44 ]
+Elapsed Time = 0:00:15.978419
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.347282] - Discriminator Loss : [0.096262] - Sum : [0.443544]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  242] - End Time [ 2019 / 12 / 12   18:19:03 ]
+Elapsed Time = 0:00:16.439986
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.347081] - Discriminator Loss : [0.103044] - Sum : [0.450125]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  243] - End Time [ 2019 / 12 / 12   18:19:22 ]
+Elapsed Time = 0:00:16.085222
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.353961] - Discriminator Loss : [0.103662] - Sum : [0.457623]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  244] - End Time [ 2019 / 12 / 12   18:19:41 ]
+Elapsed Time = 0:00:15.937372
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.344126] - Discriminator Loss : [0.099281] - Sum : [0.443407]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  245] - End Time [ 2019 / 12 / 12   18:20:00 ]
+Elapsed Time = 0:00:15.983637
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.347036] - Discriminator Loss : [0.098799] - Sum : [0.445834]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  246] - End Time [ 2019 / 12 / 12   18:20:19 ]
+Elapsed Time = 0:00:15.947349
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.352553] - Discriminator Loss : [0.099230] - Sum : [0.451783]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  247] - End Time [ 2019 / 12 / 12   18:20:37 ]
+Elapsed Time = 0:00:15.931785
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.346289] - Discriminator Loss : [0.098230] - Sum : [0.444519]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  248] - End Time [ 2019 / 12 / 12   18:20:56 ]
+Elapsed Time = 0:00:15.957310
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.346614] - Discriminator Loss : [0.100864] - Sum : [0.447477]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  249] - End Time [ 2019 / 12 / 12   18:21:15 ]
+Elapsed Time = 0:00:15.917751
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.351984] - Discriminator Loss : [0.096698] - Sum : [0.448682]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  250] - End Time [ 2019 / 12 / 12   18:21:34 ]
+Elapsed Time = 0:00:15.983311
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.347981] - Discriminator Loss : [0.098188] - Sum : [0.446169]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  251] - End Time [ 2019 / 12 / 12   18:21:53 ]
+Elapsed Time = 0:00:15.974095
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.348339] - Discriminator Loss : [0.099712] - Sum : [0.448051]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  252] - End Time [ 2019 / 12 / 12   18:22:12 ]
+Elapsed Time = 0:00:15.946035
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.349103] - Discriminator Loss : [0.095072] - Sum : [0.444175]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  253] - End Time [ 2019 / 12 / 12   18:22:30 ]
+Elapsed Time = 0:00:15.849614
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.360943] - Discriminator Loss : [0.101384] - Sum : [0.462328]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  254] - End Time [ 2019 / 12 / 12   18:22:49 ]
+Elapsed Time = 0:00:15.948981
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.361812] - Discriminator Loss : [0.102307] - Sum : [0.464119]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  255] - End Time [ 2019 / 12 / 12   18:23:08 ]
+Elapsed Time = 0:00:15.920842
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.348390] - Discriminator Loss : [0.099172] - Sum : [0.447562]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  256] - End Time [ 2019 / 12 / 12   18:23:27 ]
+Elapsed Time = 0:00:15.951541
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.351660] - Discriminator Loss : [0.100675] - Sum : [0.452336]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  257] - End Time [ 2019 / 12 / 12   18:23:46 ]
+Elapsed Time = 0:00:15.997442
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.357121] - Discriminator Loss : [0.104948] - Sum : [0.462069]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  258] - End Time [ 2019 / 12 / 12   18:24:05 ]
+Elapsed Time = 0:00:16.012342
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.334488] - Discriminator Loss : [0.101774] - Sum : [0.436262]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  259] - End Time [ 2019 / 12 / 12   18:24:23 ]
+Elapsed Time = 0:00:15.979398
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.351011] - Discriminator Loss : [0.101077] - Sum : [0.452087]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  260] - End Time [ 2019 / 12 / 12   18:24:42 ]
+Elapsed Time = 0:00:16.031104
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.351552] - Discriminator Loss : [0.094098] - Sum : [0.445650]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  261] - End Time [ 2019 / 12 / 12   18:25:01 ]
+Elapsed Time = 0:00:15.931059
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.356118] - Discriminator Loss : [0.097768] - Sum : [0.453886]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  262] - End Time [ 2019 / 12 / 12   18:25:20 ]
+Elapsed Time = 0:00:16.047074
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.354540] - Discriminator Loss : [0.095921] - Sum : [0.450461]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  263] - End Time [ 2019 / 12 / 12   18:25:39 ]
+Elapsed Time = 0:00:15.982185
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.360335] - Discriminator Loss : [0.102827] - Sum : [0.463162]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  264] - End Time [ 2019 / 12 / 12   18:25:58 ]
+Elapsed Time = 0:00:15.947215
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.354217] - Discriminator Loss : [0.098801] - Sum : [0.453018]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  265] - End Time [ 2019 / 12 / 12   18:26:16 ]
+Elapsed Time = 0:00:15.983038
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.353676] - Discriminator Loss : [0.103117] - Sum : [0.456793]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  266] - End Time [ 2019 / 12 / 12   18:26:35 ]
+Elapsed Time = 0:00:16.027743
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.360290] - Discriminator Loss : [0.097865] - Sum : [0.458155]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  267] - End Time [ 2019 / 12 / 12   18:26:54 ]
+Elapsed Time = 0:00:16.060177
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.348192] - Discriminator Loss : [0.101571] - Sum : [0.449763]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  268] - End Time [ 2019 / 12 / 12   18:27:13 ]
+Elapsed Time = 0:00:16.061467
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.346896] - Discriminator Loss : [0.100028] - Sum : [0.446925]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  269] - End Time [ 2019 / 12 / 12   18:27:32 ]
+Elapsed Time = 0:00:16.181091
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.354566] - Discriminator Loss : [0.102411] - Sum : [0.456977]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  270] - End Time [ 2019 / 12 / 12   18:27:51 ]
+Elapsed Time = 0:00:16.031985
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.347916] - Discriminator Loss : [0.103895] - Sum : [0.451811]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  271] - End Time [ 2019 / 12 / 12   18:28:09 ]
+Elapsed Time = 0:00:15.954469
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.363707] - Discriminator Loss : [0.099596] - Sum : [0.463303]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  272] - End Time [ 2019 / 12 / 12   18:28:29 ]
+Elapsed Time = 0:00:16.328039
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.344552] - Discriminator Loss : [0.098102] - Sum : [0.442654]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  273] - End Time [ 2019 / 12 / 12   18:28:48 ]
+Elapsed Time = 0:00:16.222715
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.347142] - Discriminator Loss : [0.101414] - Sum : [0.448555]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  274] - End Time [ 2019 / 12 / 12   18:29:06 ]
+Elapsed Time = 0:00:15.970784
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.347323] - Discriminator Loss : [0.097954] - Sum : [0.445277]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  275] - End Time [ 2019 / 12 / 12   18:29:25 ]
+Elapsed Time = 0:00:16.039072
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.355306] - Discriminator Loss : [0.100031] - Sum : [0.455337]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  276] - End Time [ 2019 / 12 / 12   18:29:44 ]
+Elapsed Time = 0:00:15.990530
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.361135] - Discriminator Loss : [0.094580] - Sum : [0.455716]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  277] - End Time [ 2019 / 12 / 12   18:30:03 ]
+Elapsed Time = 0:00:15.926119
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.345442] - Discriminator Loss : [0.099873] - Sum : [0.445315]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  278] - End Time [ 2019 / 12 / 12   18:30:22 ]
+Elapsed Time = 0:00:15.988834
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.347393] - Discriminator Loss : [0.099718] - Sum : [0.447110]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  279] - End Time [ 2019 / 12 / 12   18:30:40 ]
+Elapsed Time = 0:00:15.969956
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.362927] - Discriminator Loss : [0.100746] - Sum : [0.463673]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  280] - End Time [ 2019 / 12 / 12   18:30:59 ]
+Elapsed Time = 0:00:15.924945
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.349133] - Discriminator Loss : [0.098734] - Sum : [0.447867]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  281] - End Time [ 2019 / 12 / 12   18:31:18 ]
+Elapsed Time = 0:00:15.974596
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.349438] - Discriminator Loss : [0.095300] - Sum : [0.444737]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  282] - End Time [ 2019 / 12 / 12   18:31:36 ]
+Elapsed Time = 0:00:15.971027
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.353179] - Discriminator Loss : [0.093528] - Sum : [0.446707]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  283] - End Time [ 2019 / 12 / 12   18:31:55 ]
+Elapsed Time = 0:00:16.014697
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.350414] - Discriminator Loss : [0.101923] - Sum : [0.452337]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  284] - End Time [ 2019 / 12 / 12   18:32:14 ]
+Elapsed Time = 0:00:16.001311
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.358429] - Discriminator Loss : [0.099446] - Sum : [0.457875]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  285] - End Time [ 2019 / 12 / 12   18:32:33 ]
+Elapsed Time = 0:00:16.015243
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.350437] - Discriminator Loss : [0.098238] - Sum : [0.448676]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  286] - End Time [ 2019 / 12 / 12   18:32:51 ]
+Elapsed Time = 0:00:15.943130
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.346050] - Discriminator Loss : [0.096169] - Sum : [0.442219]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  287] - End Time [ 2019 / 12 / 12   18:33:10 ]
+Elapsed Time = 0:00:16.033055
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.348925] - Discriminator Loss : [0.096608] - Sum : [0.445533]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  288] - End Time [ 2019 / 12 / 12   18:33:29 ]
+Elapsed Time = 0:00:15.961766
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.345945] - Discriminator Loss : [0.097888] - Sum : [0.443833]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  289] - End Time [ 2019 / 12 / 12   18:33:47 ]
+Elapsed Time = 0:00:15.984618
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.357790] - Discriminator Loss : [0.102416] - Sum : [0.460205]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  290] - End Time [ 2019 / 12 / 12   18:34:06 ]
+Elapsed Time = 0:00:16.011219
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.337671] - Discriminator Loss : [0.100980] - Sum : [0.438650]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  291] - End Time [ 2019 / 12 / 12   18:34:25 ]
+Elapsed Time = 0:00:15.963101
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.351164] - Discriminator Loss : [0.096408] - Sum : [0.447572]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  292] - End Time [ 2019 / 12 / 12   18:34:43 ]
+Elapsed Time = 0:00:15.976572
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.349838] - Discriminator Loss : [0.095538] - Sum : [0.445376]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  293] - End Time [ 2019 / 12 / 12   18:35:03 ]
+Elapsed Time = 0:00:16.001276
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.360186] - Discriminator Loss : [0.096182] - Sum : [0.456368]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  294] - End Time [ 2019 / 12 / 12   18:35:21 ]
+Elapsed Time = 0:00:15.968048
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.353348] - Discriminator Loss : [0.100678] - Sum : [0.454026]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  295] - End Time [ 2019 / 12 / 12   18:35:40 ]
+Elapsed Time = 0:00:15.947287
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.349343] - Discriminator Loss : [0.096510] - Sum : [0.445853]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  296] - End Time [ 2019 / 12 / 12   18:35:59 ]
+Elapsed Time = 0:00:16.022784
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.351505] - Discriminator Loss : [0.102308] - Sum : [0.453813]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  297] - End Time [ 2019 / 12 / 12   18:36:18 ]
+Elapsed Time = 0:00:15.971827
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.354022] - Discriminator Loss : [0.097161] - Sum : [0.451183]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  298] - End Time [ 2019 / 12 / 12   18:36:36 ]
+Elapsed Time = 0:00:15.966620
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.345455] - Discriminator Loss : [0.098860] - Sum : [0.444315]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  299] - End Time [ 2019 / 12 / 12   18:36:55 ]
+Elapsed Time = 0:00:15.991362
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.354639] - Discriminator Loss : [0.096789] - Sum : [0.451428]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [  300] - End Time [ 2019 / 12 / 12   18:37:14 ]
+Elapsed Time = 0:00:15.975624
+Generator Learning Rate = [0.000200] - Discriminator Learning Rate = [0.000200]
+Generator Loss : [0.342983] - Discriminator Loss : [0.096865] - Sum : [0.439848]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+

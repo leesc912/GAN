@@ -1,0 +1,20 @@
+test = False
+folder = /content/drive/My Drive/workspace/Gitea/Test/GAN/MNIST/LSGAN/Result
+epochs = 50000
+initial_epoch = 0
+batch_size = 128
+latent_size = 100
+use_bias = False
+dropout = 0.5
+slope = 0.2
+lr = 0.0002
+beta_1 = 0.5
+smoothing = 0.9
+ckpt_path = None
+ckpt_epoch = None
+interval = 1
+new model checkpoint path = /content/drive/My Drive/workspace/Gitea/Test/GAN/MNIST/LSGAN/Result/2019-12-12__170247/ckpt
+
+
+
+
