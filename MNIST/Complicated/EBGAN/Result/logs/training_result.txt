@@ -1,0 +1,150 @@
+Epoch = [    1] - End Time [ 2020 / 02 / 04   11:24:56 ]
+Elapsed Time = 0:02:06.939899
+Learning Rate = [0.000200]
+g_loss = [1.174758]   d_loss = [0.694760]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [    2] - End Time [ 2020 / 02 / 04   11:27:03 ]
+Elapsed Time = 0:02:03.960963
+Learning Rate = [0.000200]
+g_loss = [1.248394]   d_loss = [0.435251]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [    3] - End Time [ 2020 / 02 / 04   11:29:10 ]
+Elapsed Time = 0:02:03.875851
+Learning Rate = [0.000200]
+g_loss = [1.278530]   d_loss = [0.359130]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [    4] - End Time [ 2020 / 02 / 04   11:31:16 ]
+Elapsed Time = 0:02:04.071051
+Learning Rate = [0.000200]
+g_loss = [1.303317]   d_loss = [0.347836]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [    5] - End Time [ 2020 / 02 / 04   11:33:23 ]
+Elapsed Time = 0:02:03.964775
+Learning Rate = [0.000200]
+g_loss = [1.298829]   d_loss = [0.317813]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [    6] - End Time [ 2020 / 02 / 04   11:35:29 ]
+Elapsed Time = 0:02:04.083592
+Learning Rate = [0.000200]
+g_loss = [1.295117]   d_loss = [0.309115]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [    7] - End Time [ 2020 / 02 / 04   11:37:36 ]
+Elapsed Time = 0:02:04.088181
+Learning Rate = [0.000200]
+g_loss = [1.311503]   d_loss = [0.305878]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [    8] - End Time [ 2020 / 02 / 04   11:39:43 ]
+Elapsed Time = 0:02:03.998089
+Learning Rate = [0.000200]
+g_loss = [1.322750]   d_loss = [0.297114]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [    9] - End Time [ 2020 / 02 / 04   11:41:49 ]
+Elapsed Time = 0:02:03.983417
+Learning Rate = [0.000200]
+g_loss = [1.333485]   d_loss = [0.292503]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   10] - End Time [ 2020 / 02 / 04   11:43:56 ]
+Elapsed Time = 0:02:04.078522
+Learning Rate = [0.000200]
+g_loss = [1.312747]   d_loss = [0.290086]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   11] - End Time [ 2020 / 02 / 04   11:46:03 ]
+Elapsed Time = 0:02:04.028709
+Learning Rate = [0.000200]
+g_loss = [1.309966]   d_loss = [0.287606]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   12] - End Time [ 2020 / 02 / 04   11:48:09 ]
+Elapsed Time = 0:02:03.931706
+Learning Rate = [0.000200]
+g_loss = [1.309985]   d_loss = [0.282716]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   13] - End Time [ 2020 / 02 / 04   11:50:16 ]
+Elapsed Time = 0:02:03.821053
+Learning Rate = [0.000200]
+g_loss = [1.324047]   d_loss = [0.279636]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   14] - End Time [ 2020 / 02 / 04   11:52:22 ]
+Elapsed Time = 0:02:03.771670
+Learning Rate = [0.000200]
+g_loss = [1.320121]   d_loss = [0.281912]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   15] - End Time [ 2020 / 02 / 04   11:54:29 ]
+Elapsed Time = 0:02:03.737922
+Learning Rate = [0.000200]
+g_loss = [1.322353]   d_loss = [0.271375]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   16] - End Time [ 2020 / 02 / 04   11:56:35 ]
+Elapsed Time = 0:02:03.806897
+Learning Rate = [0.000200]
+g_loss = [1.328638]   d_loss = [0.270873]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   17] - End Time [ 2020 / 02 / 04   11:58:42 ]
+Elapsed Time = 0:02:03.699607
+Learning Rate = [0.000200]
+g_loss = [1.335462]   d_loss = [0.255838]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   18] - End Time [ 2020 / 02 / 04   12:00:48 ]
+Elapsed Time = 0:02:03.652796
+Learning Rate = [0.000200]
+g_loss = [1.335959]   d_loss = [0.262814]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   19] - End Time [ 2020 / 02 / 04   12:02:54 ]
+Elapsed Time = 0:02:03.692700
+Learning Rate = [0.000200]
+g_loss = [1.328913]   d_loss = [0.261308]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   20] - End Time [ 2020 / 02 / 04   12:05:00 ]
+Elapsed Time = 0:02:03.635798
+Learning Rate = [0.000200]
+g_loss = [1.333899]   d_loss = [0.259663]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   21] - End Time [ 2020 / 02 / 04   12:07:06 ]
+Elapsed Time = 0:02:03.702354
+Learning Rate = [0.000200]
+g_loss = [1.351564]   d_loss = [0.244943]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   22] - End Time [ 2020 / 02 / 04   12:09:13 ]
+Elapsed Time = 0:02:03.749528
+Learning Rate = [0.000200]
+g_loss = [1.325074]   d_loss = [0.263133]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   23] - End Time [ 2020 / 02 / 04   12:11:19 ]
+Elapsed Time = 0:02:03.747956
+Learning Rate = [0.000200]
+g_loss = [1.332814]   d_loss = [0.248288]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   24] - End Time [ 2020 / 02 / 04   12:13:25 ]
+Elapsed Time = 0:02:03.801458
+Learning Rate = [0.000200]
+g_loss = [1.353765]   d_loss = [0.253083]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+
+Epoch = [   25] - End Time [ 2020 / 02 / 04   12:15:32 ]
+Elapsed Time = 0:02:03.874278
+Learning Rate = [0.000200]
+g_loss = [1.337751]   d_loss = [0.249663]
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  - 
+

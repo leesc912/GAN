@@ -1,0 +1,12 @@
+test = False
+result_folder = /content/drive/My Drive/Gitea/Test/GAN/MNIST/Dev/EBGAN/Result
+epochs = 50000
+batch_size = 64
+latent_size = 100
+margin = 1
+use_pt = True
+pt_weight = 0.1
+lr = 0.0002
+ckpt_path = None
+ckpt_epoch = None
+new model checkpoint path = /content/drive/My Drive/Gitea/Test/GAN/MNIST/Dev/EBGAN/Result/20200204__112247/ckpt
